@@ -217,15 +217,15 @@ def main():
         #for trying the check_winnings() logic
         # print("==========================================================")
         #here you can rig the outcome
-        slot_output[0][0]="★"
-        slot_output[0][1]="★"
-        slot_output[0][2]="★"
-        slot_output[1][0]="$"
-        slot_output[1][1]="$"
-        slot_output[1][2]="$"
-        slot_output[2][0]="★"
-        slot_output[2][1]="★"
-        slot_output[2][2]="★"
+        # slot_output[0][0]="★"
+        # slot_output[0][1]="★"
+        # slot_output[0][2]="★"
+        # slot_output[1][0]="$"
+        # slot_output[1][1]="$"
+        # slot_output[1][2]="$"
+        # slot_output[2][0]="★"
+        # slot_output[2][1]="★"
+        # slot_output[2][2]="★"
         # print(np.matrix(slot_output))
         
         balance=check_winnings(slot_output,lines,total_bet,balance)
