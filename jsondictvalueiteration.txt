@@ -1,0 +1,91 @@
+response={
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 111051,
+      "collectionId": 1434770366,
+      "trackId": 1434770522,
+      "artistName": "Eminem",
+      "collectionName": "Kamikaze",
+      "trackName": "Venom",
+      "collectionCensoredName": "Kamikaze",
+      "trackCensoredName": "Venom (Music From The Motion Picture)",
+      "artistViewUrl": "https://music.apple.com/us/artist/eminem/111051?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/venom-music-from-the-motion-picture/1434770366?i=1434770522&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/venom-music-from-the-motion-picture/1434770366?i=1434770522&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/e7/6f/90e76fdf-b162-1e7b-9093-cc4d5b8a6f93/mzaf_3369271492887264578.plus.aac.p.m4a",
+      "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2018-08-31T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 13,
+      "trackTimeMillis": 269573,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Hip-Hop/Rap",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}
+
+
+
+
+
+
+print(response["results"])
+
+
+[
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 111051,
+      "collectionId": 1434770366,
+      "trackId": 1434770522,
+      "artistName": "Eminem",
+      "collectionName": "Kamikaze",
+      "trackName": "Venom",
+      "collectionCensoredName": "Kamikaze",
+      "trackCensoredName": "Venom (Music From The Motion Picture)",
+      "artistViewUrl": "https://music.apple.com/us/artist/eminem/111051?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/venom-music-from-the-motion-picture/1434770366?i=1434770522&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/venom-music-from-the-motion-picture/1434770366?i=1434770522&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/e7/6f/90e76fdf-b162-1e7b-9093-cc4d5b8a6f93/mzaf_3369271492887264578.plus.aac.p.m4a",
+      "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2018-08-31T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 13,
+      "trackTimeMillis": 269573,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Hip-Hop/Rap",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+
+
+for each_key in response["results"]
+	print(eachkey["trackName"])
+
+"trackName": "Venom"
+

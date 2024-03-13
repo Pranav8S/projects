@@ -551,6 +551,89 @@ print("this will print ater skipping all above statements")
 """
 
 
+#### list comprehention syntax
+
+# new_list = [expression | for item in iterable | if condition]
+
+# iterable has to be a list, tuple or a string
+
+
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+
+newlist = [fruit for fruit in fruits if "a" in fruit]
+
+print(newlist)
+
+
+
+items=[1,3,5,7,9,11,13,15,17,19]
+
+my_custom_list=[item**2 for item in items]
+
+print(my_custom_list)
+
+# in the above two examples the variable "fruit" and "item" can be replaced by "x"
+# its just for iterating over each elment in the list
+
+
+#simple even number list initialization
+numerlist=[number for number in range(1,100) if number%2==0]
+
+print(numerlist)
+
+#2d to 1d matrix conversion (nested matrix)
+
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+matrix_1d=[item for sublist in matrix for item in sublist]
+
+print(matrix_1d)
+
+
+list1=[1,2,3,4,5]
+list2=["a","b","c","d","e"]
+
+list3=[(x,y) for x in list1 for y in list2]
+
+print(list3)
+
+string_list="Hello bb@bbb World, vffg This is an zz$Zz example of filtering hlr0 using list && comprehention swp"
+
+words=string_list.split()
+
+vowels=["a","e","i","o","u"]
+
+modified_string_list=[word for word in words if any(letter.lower() in vowels for letter in word)]
+
+print(modified_string_list)
+
+
+
+
+
+### decorators
+
+import time
+
+def get_time(func):
+    def wrapper():
+        t1=time.time()
+        func()
+        t2=time.time()-t1
+        print(f"{func.__name__} took {t2} seconds")
+    return wrapper    
+
+@get_time
+def func_a():
+    print("this is function a")
+
+@get_time
+def func_b():
+    print("this is function b")
+
+func_a()
+func_b()
+
 
 
 
@@ -581,3 +664,14 @@ print(students)
 """
 
 
+list_gen = (x for x in range(10))
+
+print(list_gen)
+
+#print(list(list_gen))
+
+for item in list_gen:
+    print(item)
+
+
+result=float.is_integer(4)

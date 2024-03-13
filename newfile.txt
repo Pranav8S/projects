@@ -1,0 +1,2701 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+   <meta content="width=device-width, initial-scale=1" name="viewport"/>
+   <link as="image" fetchpriority="low" href="/public/build/images/img-lcp.svg" rel="preload"/>
+   <link href="https://www.google-analytics.com" rel="preconnect"/>
+   <link as="script" fetchpriority="low" href="/public/build/newsletter-popup.2538ce7c.js" rel="preload"/>
+   <link as="image" fetchpriority="high" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/amd-radeon-rx-7700-xt-7800-xt-gpu.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5" media="(max-width: 480px)" rel="preload"/>
+   <link as="image" fetchpriority="high" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/amd-radeon-rx-7700-xt-7800-xt-gpu.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5" media="(min-width: 481px) and (max-width: 767px)" rel="preload"/>
+   <link as="image" fetchpriority="high" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/amd-radeon-rx-7700-xt-7800-xt-gpu.jpg?q=50&amp;fit=crop&amp;w=943&amp;h=525&amp;dpr=1.5" media="(min-width: 768px) and (max-width: 1023px)" rel="preload"/>
+   <link as="image" fetchpriority="high" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/amd-radeon-rx-7700-xt-7800-xt-gpu.jpg?q=50&amp;fit=crop&amp;w=535&amp;h=442&amp;dpr=1.5" media="(min-width: 1024px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/cinebench_desktop.png?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5" media="(max-width: 480px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/cinebench_desktop.png?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5" media="(min-width: 481px) and (max-width: 767px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/cinebench_desktop.png?q=50&amp;fit=crop&amp;w=464&amp;h=280&amp;dpr=1.5" media="(min-width: 768px) and (max-width: 1023px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/cinebench_desktop.png?q=50&amp;fit=crop&amp;w=365&amp;h=212&amp;dpr=1.5" media="(min-width: 1024px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/paint-background-removal-windows-11-paint-app.png?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5" media="(max-width: 480px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/paint-background-removal-windows-11-paint-app.png?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5" media="(min-width: 481px) and (max-width: 767px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/paint-background-removal-windows-11-paint-app.png?q=50&amp;fit=crop&amp;w=464&amp;h=280&amp;dpr=1.5" media="(min-width: 768px) and (max-width: 1023px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/paint-background-removal-windows-11-paint-app.png?q=50&amp;fit=crop&amp;w=365&amp;h=212&amp;dpr=1.5" media="(min-width: 1024px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/seagate-firecuda-540-above.png?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5" media="(max-width: 480px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/seagate-firecuda-540-above.png?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5" media="(min-width: 481px) and (max-width: 767px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/seagate-firecuda-540-above.png?q=50&amp;fit=crop&amp;w=464&amp;h=280&amp;dpr=1.5" media="(min-width: 768px) and (max-width: 1023px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/seagate-firecuda-540-above.png?q=50&amp;fit=crop&amp;w=365&amp;h=212&amp;dpr=1.5" media="(min-width: 1024px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/04/This-is-our-WWDC22-feature-wishlist-for-iOS-16-iPadOS-16-watchOS-9-and-macOS-13.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5" media="(max-width: 480px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/04/This-is-our-WWDC22-feature-wishlist-for-iOS-16-iPadOS-16-watchOS-9-and-macOS-13.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5" media="(min-width: 481px) and (max-width: 767px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/04/This-is-our-WWDC22-feature-wishlist-for-iOS-16-iPadOS-16-watchOS-9-and-macOS-13.jpg?q=50&amp;fit=crop&amp;w=464&amp;h=280&amp;dpr=1.5" media="(min-width: 768px) and (max-width: 1023px)" rel="preload"/>
+   <link as="image" fetchpriority="low" href="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/04/This-is-our-WWDC22-feature-wishlist-for-iOS-16-iPadOS-16-watchOS-9-and-macOS-13.jpg?q=50&amp;fit=crop&amp;w=365&amp;h=212&amp;dpr=1.5" media="(min-width: 1024px)" rel="preload"/>
+   <link as="font" crossorigin="" fetchpriority="high" href="/public/build/fonts/titillium-web/TitilliumWeb-Regular_.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" fetchpriority="high" href="/public/build/fonts/titillium-web/TitilliumWeb-Italic_.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" fetchpriority="high" href="/public/build/fonts/titillium-web/TitilliumWeb-Bold_.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" fetchpriority="high" href="/public/build/fonts/titillium-web/TitilliumWeb-BoldItalic_.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" fetchpriority="low" href="/public/build/fonts/icons/icomoon.woff2?v=1.7" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" fetchpriority="low" href="/public/build/fonts/icons/icomoon.woff?v=1.7" rel="preload" type="font/woff"/>
+   <style>
+    @font-face {
+            font-family: 'Titillium Web';
+            font-weight: 700;
+            font-style: normal;
+            font-display: block;
+            src: url('/public/build/fonts/titillium-web/TitilliumWeb-Bold_.woff2') format('woff2');
+        }
+
+        @font-face {
+            font-family: 'Titillium Web';
+            font-weight: 700;
+            font-style: italic;
+            font-display: block;
+            src: url('/public/build/fonts/titillium-web/TitilliumWeb-BoldItalic_.woff2') format('woff2');
+        }
+
+        @font-face {
+            font-family: 'Titillium Web';
+            font-weight: normal;
+            font-style: normal;
+            font-display: block;
+            src: url('/public/build/fonts/titillium-web/TitilliumWeb-Regular_.woff2') format('woff2');
+        }
+
+        @font-face {
+            font-family: 'Titillium Web';
+            font-weight: normal;
+            font-style: italic;
+            font-display: block;
+            src: url('/public/build/fonts/titillium-web/TitilliumWeb-Italic_.woff2') format('woff2');
+        }
+   </style>
+   <style>
+    @font-face {
+            font-family: 'icomoon';
+            src: url('/public/build/fonts/icons/icomoon.eot?v=1.7');
+            src: url('/public/build/fonts/icons/icomoon.eot?v=1.7') format('embedded-opentype'),
+            url('/public/build/fonts/icons/icomoon.woff?v=1.7') format('woff'),
+            url('/public/build/fonts/icons/icomoon.woff2?v=1.7') format('woff2'),
+            url('/public/build/fonts/icons/icomoon.ttf?v=1.7') format('truetype'),
+            url('/public/build/fonts/icons/icomoon.svg#icomoon?v=1.7') format('svg');
+            font-weight: normal;
+            font-style: normal;
+            font-display: block;
+        }
+   </style>
+   <script>
+    window.isInternalTraffic = false
+   </script>
+   <script>
+    window.STICKY_FEATURED_VIDEO = 1
+   </script>
+   <script>
+    // GLOBAL JS VARIABLES FOR THE PAGE
+        
+                                var VALNET_GLOBAL_FBAPPID = "457224991007811";
+        
+        // GLOBAL JS VARIABLES FOR GOOGLE ANALYTICS
+                                                                        var VALNET_GLOBAL_GOOGLEANALYTICSPROPERTYID = "UA-12268453-1";
+            var VALNET_GLOBAL_POSTID = "Non-Article";
+            var VALNET_GLOBAL_AUTHOR = "Non-Article";
+            var VALNET_GLOBAL_CHANNEL = "home";
+            var VALNET_GLOBAL_VIEW = "";
+            var VALNET_GLOBAL_EXACTVIEW = "";
+            var VALNET_GLOBAL_ISPREMIUM = "false";
+            var VALNET_GLOBAL_ENVIRONMENT = "native";
+            var VALNET_GLOBAL_POSTTYPE = "";
+            var VALNET_GLOBAL_JREDITOR = "Non-Article";
+            var VALNET_GLOBAL_SREDITOR = "Non-Article";
+            var VALNET_GLOBAL_NUMBERPERPAGE = "";
+            var VALNET_GLOBAL_ISENGAGEMENTTEST = "false";
+            var VALNET_GLOBAL_DETECTEDDEVICE = "desktop";
+            var VALNET_GLOBAL_IPADDRESS = "103.177.113.175";
+            var VALNET_GLOBAL_BROWSERUSERAGENT = "python\u002Drequests\/2.31.0";
+            var VALNET_GLOBAL_LENGTH = "";
+            var VALNET_GLOBAL_DATEPUBLISHED = "";
+            var VALNET_GLOBAL_EDITOR = "";
+            var VALNET_GLOBAL_POSTPAYMENTCATEGORY = "Non-Article";
+            var VALNET_GLOBAL_CATEGORY = "Non-Article";
+            var VALNET_GLOBAL_TAGS = "";
+            var VALNET_GLOBAL_ISFACEBOOKBROWSER = "";
+            var VALNET_GLOBAL_ADS = "";
+            var VALNET_GLOBAL_AMPTRAFFIC = "false";
+            var VALNET_GLOBAL_TEMPLATE = "home";
+            var VALNET_GLOBAL_TLDRPERMALINK = "";
+            var VALNET_GLOBAL_TLDRPAGE = "";
+            var VALNET_GLOBAL_TLDRTOTALNUMPAGE = "";
+            var VALNET_GLOBAL_TLDRVIEWTYPE = "";
+            var VALNET_GLOBAL_ISADBLOCK = true;
+            var VALNET_GLOBAL_NETWORKCATEGORY = "Non-Article";
+            var VALNET_GLOBAL_CONTENTTYPE = "Non-Article";
+            var VALNET_GLOBAL_INTENT = "Non-Article";
+            var VALNET_GLOBAL_DATEREPUBLISHED = "";
+                        var VALNET_GLOBAL_CLASSIFICATION = "";
+            var VALNET_GLOBAL_SUBSCRIPTIONPLAN = "";
+            var VALNET_GLOBAL_SEGMENT = "";
+            var VALNET_GLOBAL_VIDEOPLACEMENT = "none";
+            var VALNET_GLOBAL_LANG = "en";
+
+            var VALNET_GLOBAL_SOCIALTAGLINE = "";
+   </script>
+   <!-- Google Analytics v4 -->
+   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-CW1BQM4JMY">
+   </script>
+   <script>
+    function getCookiesStartingWith(cname) {
+
+                let decodedCookie = decodeURIComponent(document.cookie);
+
+                return decodedCookie.split(';')
+                    .map((d) => d.trim())
+                    .filter((d) => d.substring(0, cname.length) === cname);
+            }
+
+            function isCookiePresent(cname) {
+
+                let cookies = getCookiesStartingWith(cname);
+
+                return (cookies.length > 0);
+            }
+
+            let isFirstView = !isCookiePresent("_ga_");
+            // Don't forget to remove true parameter on ga4Params
+
+            let ga4ParamsObject = JSON.parse(`{"post_id":"Non-Article","article_template":"","browser_user_agent":"python-requests\/2.31.0","author":"Non-Article","jr_editor":"Non-Article","sr_editor":"Non-Article","primary_category":"Non-Article","tags":"","payment_category":"Non-Article","content_type":"Non-Article","intent":"Non-Article","network_category":"Non-Article","is_amp_traffic":false,"template":"home","is_ad_block":false,"classification":"","is_subscribed_premium":false,"subscription_plan":"","ip_address":"103.177.113.175","date_published":"","date_republished":"","brand_segment":null,"video_picker":"none"}`);
+            ga4ParamsObject.first_view = isFirstView;
+
+            let refererUrl = '';
+            ga4ParamsObject.first_visit = !(refererUrl.includes('www.xda-developers.com'));
+
+                        window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-CW1BQM4JMY', ga4ParamsObject);
+   </script>
+   <!-- End Google Analytics v4 -->
+   <script>
+    window.brandName = 'XDA';
+        window.sendGa360Event = function(eventLabel, eventCategory, value, eventAction = null, page = null, hitType = null){
+            var eventData = {};
+
+            eventData.eventLabel = eventLabel;
+            eventData.eventCategory = eventCategory;
+            eventData.value = value;
+
+            if(eventAction){
+                eventData.eventAction = eventAction;
+            }
+
+            if(hitType){
+                eventData.hitType = hitType;
+            }
+
+            if(page){
+                eventData.page = page;
+            }
+
+            ga('send', eventData);
+        }
+
+        window.sendGa4Event = function(eventLabel, eventCategory, value, page=null, hitType = null){
+            var eventData = {};
+
+            eventData.eventLabel = eventLabel;
+            eventData.eventCategory = eventCategory;
+            eventData.value = value;
+
+            if(hitType){
+                eventData.hitType = hitType;
+            }
+
+            if(page){
+                eventData.page = page;
+            }
+
+            ga('send', {
+                hitType: 'scroll',
+                page: this.ajaxUrl,
+                eventLabel: "Load More Entries",
+                eventCategory: 'Resource List',
+                value: this.pageNumber
+            });
+        }
+   </script>
+   <script>
+    window.arrayOfEmbeds = [];
+        window.arrayOfEmbedScripts = [];
+        window.arrayOfGalleries = [];
+        window.arrayOfExpandedGalleries = [];
+   </script>
+   <script>
+    window.youtubeEmbedCodes = []
+   </script>
+   <link href="/public/build/home.1b1de371.css" rel="stylesheet"/>
+   <!-- Google Analytics -->
+   <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+   </script>
+   <!-- End Google Analytics -->
+   <script type="application/javascript">
+    function sendToGoogleAnalytics(metric) {
+            console.log(metric)
+            const {name, delta, value, id, entries, rating, attribution} = metric
+            gtag('event', name, {
+                event_category: 'Web Vitals',
+                first_view: isFirstView,
+                value: Math.round(name === 'CLS' ? delta * 1000000000 : delta),
+                event_label: id,
+                non_interaction: true,
+                metric_id: id,
+                metric_value: value,
+                metric_delta: delta,
+                metric_rating: rating,
+                debug_target: attribution ? attribution.largestShiftTarget||attribution.element||attribution.eventTarget||'' : '(not set)',
+                debug_event: attribution ? attribution.eventType||'' : '',
+                debug_timing: attribution ? attribution.loadState||'' : '',
+                event_time: attribution ? attribution.largestShiftTime||(attribution.lcpEntry&&attribution.lcpEntry.startTime)||attribution.eventTime||'': '',
+            });
+        }
+
+        (function() {
+            var script = document.createElement('script');
+            script.src = 'https://unpkg.com/web-vitals@3/dist/web-vitals.attribution.iife.js';
+            script.onload = function() {
+                webVitals.onCLS(sendToGoogleAnalytics);
+                webVitals.onFID(sendToGoogleAnalytics);
+                webVitals.onLCP(sendToGoogleAnalytics);
+                webVitals.onTTFB(sendToGoogleAnalytics);
+                webVitals.onFCP(sendToGoogleAnalytics);
+                webVitals.onINP(sendToGoogleAnalytics);
+            }
+            document.head.appendChild(script);
+        }())
+   </script>
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MSPSR2X');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script type="text/javascript">
+    /*!
+            Waypoints - 4.0.1
+            Copyright © 2011-2016 Caleb Troughton
+            Licensed under the MIT license.
+            https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
+        */
+        !function(){"use strict";function t(n){if(!n)throw new Error("No options passed to Waypoint constructor");if(!n.element)throw new Error("No element option passed to Waypoint constructor");if(!n.handler)throw new Error("No handler option passed to Waypoint constructor");this.key="waypoint-"+e,this.options=t.Adapter.extend({},t.defaults,n),this.element=this.options.element,this.adapter=new t.Adapter(this.element),this.callback=n.handler,this.axis=this.options.horizontal?"horizontal":"vertical",this.enabled=this.options.enabled,this.triggerPoint=null,this.group=t.Group.findOrCreate({name:this.options.group,axis:this.axis}),this.context=t.Context.findOrCreateByElement(this.options.context),t.offsetAliases[this.options.offset]&&(this.options.offset=t.offsetAliases[this.options.offset]),this.group.add(this),this.context.add(this),i[this.key]=this,e+=1}var e=0,i={};t.prototype.queueTrigger=function(t){this.group.queueTrigger(this,t)},t.prototype.trigger=function(t){this.enabled&&this.callback&&this.callback.apply(this,t)},t.prototype.destroy=function(){this.context.remove(this),this.group.remove(this),delete i[this.key]},t.prototype.disable=function(){return this.enabled=!1,this},t.prototype.enable=function(){return this.context.refresh(),this.enabled=!0,this},t.prototype.next=function(){return this.group.next(this)},t.prototype.previous=function(){return this.group.previous(this)},t.invokeAll=function(t){var e=[];for(var n in i)e.push(i[n]);for(var o=0,r=e.length;r>o;o++)e[o][t]()},t.destroyAll=function(){t.invokeAll("destroy")},t.disableAll=function(){t.invokeAll("disable")},t.enableAll=function(){t.Context.refreshAll();for(var e in i)i[e].enabled=!0;return this},t.refreshAll=function(){t.Context.refreshAll()},t.viewportHeight=function(){return window.innerHeight||document.documentElement.clientHeight},t.viewportWidth=function(){return document.documentElement.clientWidth},t.adapters=[],t.defaults={context:window,continuous:!0,enabled:!0,group:"default",horizontal:!1,offset:0},t.offsetAliases={"bottom-in-view":function(){return this.context.innerHeight()-this.adapter.outerHeight()},"right-in-view":function(){return this.context.innerWidth()-this.adapter.outerWidth()}},window.Waypoint=t}(),function(){"use strict";function t(t){window.setTimeout(t,1e3/60)}function e(t){this.element=t,this.Adapter=o.Adapter,this.adapter=new this.Adapter(t),this.key="waypoint-context-"+i,this.didScroll=!1,this.didResize=!1,this.oldScroll={x:this.adapter.scrollLeft(),y:this.adapter.scrollTop()},this.waypoints={vertical:{},horizontal:{}},t.waypointContextKey=this.key,n[t.waypointContextKey]=this,i+=1,o.windowContext||(o.windowContext=!0,o.windowContext=new e(window)),this.createThrottledScrollHandler(),this.createThrottledResizeHandler()}var i=0,n={},o=window.Waypoint,r=window.onload;e.prototype.add=function(t){var e=t.options.horizontal?"horizontal":"vertical";this.waypoints[e][t.key]=t,this.refresh()},e.prototype.checkEmpty=function(){var t=this.Adapter.isEmptyObject(this.waypoints.horizontal),e=this.Adapter.isEmptyObject(this.waypoints.vertical),i=this.element==this.element.window;t&&e&&!i&&(this.adapter.off(".waypoints"),delete n[this.key])},e.prototype.createThrottledResizeHandler=function(){function t(){e.handleResize(),e.didResize=!1}var e=this;this.adapter.on("resize.waypoints",function(){e.didResize||(e.didResize=!0,o.requestAnimationFrame(t))})},e.prototype.createThrottledScrollHandler=function(){function t(){e.handleScroll(),e.didScroll=!1}var e=this;this.adapter.on("scroll.waypoints",function(){(!e.didScroll||o.isTouch)&&(e.didScroll=!0,o.requestAnimationFrame(t))})},e.prototype.handleResize=function(){o.Context.refreshAll()},e.prototype.handleScroll=function(){var t={},e={horizontal:{newScroll:this.adapter.scrollLeft(),oldScroll:this.oldScroll.x,forward:"right",backward:"left"},vertical:{newScroll:this.adapter.scrollTop(),oldScroll:this.oldScroll.y,forward:"down",backward:"up"}};for(var i in e){var n=e[i],o=n.newScroll>n.oldScroll,r=o?n.forward:n.backward;for(var s in this.waypoints[i]){var l=this.waypoints[i][s];if(null!==l.triggerPoint){var a=n.oldScroll<l.triggerPoint,h=n.newScroll>=l.triggerPoint,p=a&&h,u=!a&&!h;(p||u)&&(l.queueTrigger(r),t[l.group.id]=l.group)}}}for(var d in t)t[d].flushTriggers();this.oldScroll={x:e.horizontal.newScroll,y:e.vertical.newScroll}},e.prototype.innerHeight=function(){return this.element==this.element.window?o.viewportHeight():this.adapter.innerHeight()},e.prototype.remove=function(t){delete this.waypoints[t.axis][t.key],this.checkEmpty()},e.prototype.innerWidth=function(){return this.element==this.element.window?o.viewportWidth():this.adapter.innerWidth()},e.prototype.destroy=function(){var t=[];for(var e in this.waypoints)for(var i in this.waypoints[e])t.push(this.waypoints[e][i]);for(var n=0,o=t.length;o>n;n++)t[n].destroy()},e.prototype.refresh=function(){var t,e=this.element==this.element.window,i=e?void 0:this.adapter.offset(),n={};this.handleScroll(),t={horizontal:{contextOffset:e?0:i.left,contextScroll:e?0:this.oldScroll.x,contextDimension:this.innerWidth(),oldScroll:this.oldScroll.x,forward:"right",backward:"left",offsetProp:"left"},vertical:{contextOffset:e?0:i.top,contextScroll:e?0:this.oldScroll.y,contextDimension:this.innerHeight(),oldScroll:this.oldScroll.y,forward:"down",backward:"up",offsetProp:"top"}};for(var r in t){var s=t[r];for(var l in this.waypoints[r]){var a,h,p,u,d,f=this.waypoints[r][l],c=f.options.offset,w=f.triggerPoint,y=0,g=null==w;f.element!==f.element.window&&(y=f.adapter.offset()[s.offsetProp]),"function"==typeof c?c=c.apply(f):"string"==typeof c&&(c=parseFloat(c),f.options.offset.indexOf("%")>-1&&(c=Math.ceil(s.contextDimension*c/100))),a=s.contextScroll-s.contextOffset,f.triggerPoint=Math.floor(y+a-c),h=w<s.oldScroll,p=f.triggerPoint>=s.oldScroll,u=h&&p,d=!h&&!p,!g&&u?(f.queueTrigger(s.backward),n[f.group.id]=f.group):!g&&d?(f.queueTrigger(s.forward),n[f.group.id]=f.group):g&&s.oldScroll>=f.triggerPoint&&(f.queueTrigger(s.forward),n[f.group.id]=f.group)}}return o.requestAnimationFrame(function(){for(var t in n)n[t].flushTriggers()}),this},e.findOrCreateByElement=function(t){return e.findByElement(t)||new e(t)},e.refreshAll=function(){for(var t in n)n[t].refresh()},e.findByElement=function(t){return n[t.waypointContextKey]},window.onload=function(){r&&r(),e.refreshAll()},o.requestAnimationFrame=function(e){var i=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||t;i.call(window,e)},o.Context=e}(),function(){"use strict";function t(t,e){return t.triggerPoint-e.triggerPoint}function e(t,e){return e.triggerPoint-t.triggerPoint}function i(t){this.name=t.name,this.axis=t.axis,this.id=this.name+"-"+this.axis,this.waypoints=[],this.clearTriggerQueues(),n[this.axis][this.name]=this}var n={vertical:{},horizontal:{}},o=window.Waypoint;i.prototype.add=function(t){this.waypoints.push(t)},i.prototype.clearTriggerQueues=function(){this.triggerQueues={up:[],down:[],left:[],right:[]}},i.prototype.flushTriggers=function(){for(var i in this.triggerQueues){var n=this.triggerQueues[i],o="up"===i||"left"===i;n.sort(o?e:t);for(var r=0,s=n.length;s>r;r+=1){var l=n[r];(l.options.continuous||r===n.length-1)&&l.trigger([i])}}this.clearTriggerQueues()},i.prototype.next=function(e){this.waypoints.sort(t);var i=o.Adapter.inArray(e,this.waypoints),n=i===this.waypoints.length-1;return n?null:this.waypoints[i+1]},i.prototype.previous=function(e){this.waypoints.sort(t);var i=o.Adapter.inArray(e,this.waypoints);return i?this.waypoints[i-1]:null},i.prototype.queueTrigger=function(t,e){this.triggerQueues[e].push(t)},i.prototype.remove=function(t){var e=o.Adapter.inArray(t,this.waypoints);e>-1&&this.waypoints.splice(e,1)},i.prototype.first=function(){return this.waypoints[0]},i.prototype.last=function(){return this.waypoints[this.waypoints.length-1]},i.findOrCreate=function(t){return n[t.axis][t.name]||new i(t)},o.Group=i}(),function(){"use strict";function t(t){return t===t.window}function e(e){return t(e)?e:e.defaultView}function i(t){this.element=t,this.handlers={}}var n=window.Waypoint;i.prototype.innerHeight=function(){var e=t(this.element);return e?this.element.innerHeight:this.element.clientHeight},i.prototype.innerWidth=function(){var e=t(this.element);return e?this.element.innerWidth:this.element.clientWidth},i.prototype.off=function(t,e){function i(t,e,i){for(var n=0,o=e.length-1;o>n;n++){var r=e[n];i&&i!==r||t.removeEventListener(r)}}var n=t.split("."),o=n[0],r=n[1],s=this.element;if(r&&this.handlers[r]&&o)i(s,this.handlers[r][o],e),this.handlers[r][o]=[];else if(o)for(var l in this.handlers)i(s,this.handlers[l][o]||[],e),this.handlers[l][o]=[];else if(r&&this.handlers[r]){for(var a in this.handlers[r])i(s,this.handlers[r][a],e);this.handlers[r]={}}},i.prototype.offset=function(){if(!this.element.ownerDocument)return null;var t=this.element.ownerDocument.documentElement,i=e(this.element.ownerDocument),n={top:0,left:0};return this.element.getBoundingClientRect&&(n=this.element.getBoundingClientRect()),{top:n.top+i.pageYOffset-t.clientTop,left:n.left+i.pageXOffset-t.clientLeft}},i.prototype.on=function(t,e){var i=t.split("."),n=i[0],o=i[1]||"__default",r=this.handlers[o]=this.handlers[o]||{},s=r[n]=r[n]||[];s.push(e),this.element.addEventListener(n,e)},i.prototype.outerHeight=function(e){var i,n=this.innerHeight();return e&&!t(this.element)&&(i=window.getComputedStyle(this.element),n+=parseInt(i.marginTop,10),n+=parseInt(i.marginBottom,10)),n},i.prototype.outerWidth=function(e){var i,n=this.innerWidth();return e&&!t(this.element)&&(i=window.getComputedStyle(this.element),n+=parseInt(i.marginLeft,10),n+=parseInt(i.marginRight,10)),n},i.prototype.scrollLeft=function(){var t=e(this.element);return t?t.pageXOffset:this.element.scrollLeft},i.prototype.scrollTop=function(){var t=e(this.element);return t?t.pageYOffset:this.element.scrollTop},i.extend=function(){function t(t,e){if("object"==typeof t&&"object"==typeof e)for(var i in e)e.hasOwnProperty(i)&&(t[i]=e[i]);return t}for(var e=Array.prototype.slice.call(arguments),i=1,n=e.length;n>i;i++)t(e[0],e[i]);return e[0]},i.inArray=function(t,e,i){return null==e?-1:e.indexOf(t,i)},i.isEmptyObject=function(t){for(var e in t)return!1;return!0},n.adapters.push({name:"noframework",Adapter:i}),n.Adapter=i}();
+   </script>
+   <script type="text/javascript">
+    /*!
+            Waypoints Inview Shortcut - 4.0.1
+            Copyright © 2011-2016 Caleb Troughton
+            Licensed under the MIT license.
+            https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
+        */
+        !function(){"use strict";function t(){}function e(t){this.options=i.Adapter.extend({},e.defaults,t),this.axis=this.options.horizontal?"horizontal":"vertical",this.waypoints=[],this.element=this.options.element,this.createWaypoints()}var i=window.Waypoint;e.prototype.createWaypoints=function(){for(var t={vertical:[{down:"enter",up:"exited",offset:"100%"},{down:"entered",up:"exit",offset:"bottom-in-view"},{down:"exit",up:"entered",offset:0},{down:"exited",up:"enter",offset:function(){return-this.adapter.outerHeight()}}],horizontal:[{right:"enter",left:"exited",offset:"100%"},{right:"entered",left:"exit",offset:"right-in-view"},{right:"exit",left:"entered",offset:0},{right:"exited",left:"enter",offset:function(){return-this.adapter.outerWidth()}}]},e=0,i=t[this.axis].length;i>e;e++){var n=t[this.axis][e];this.createWaypoint(n)}},e.prototype.createWaypoint=function(t){var e=this;this.waypoints.push(new i({context:this.options.context,element:this.options.element,enabled:this.options.enabled,handler:function(t){return function(i){e.options[t[i]].call(e,i)}}(t),offset:t.offset,horizontal:this.options.horizontal}))},e.prototype.destroy=function(){for(var t=0,e=this.waypoints.length;e>t;t++)this.waypoints[t].destroy();this.waypoints=[]},e.prototype.disable=function(){for(var t=0,e=this.waypoints.length;e>t;t++)this.waypoints[t].disable()},e.prototype.enable=function(){for(var t=0,e=this.waypoints.length;e>t;t++)this.waypoints[t].enable()},e.defaults={context:window,enabled:!0,enter:t,entered:t,exit:t,exited:t},i.Inview=e}();
+   </script>
+   <script type="text/javascript">
+    /*! lazysizes - v4.0.0-rc3 */
+        !function(a,b){var c=b(a,a.document);a.lazySizes=c,"object"==typeof module&&module.exports&&(module.exports=c)}(window,function(a,b){"use strict";if(b.getElementsByClassName){var c,d,e=b.documentElement,f=a.Date,g=a.HTMLPictureElement,h="addEventListener",i="getAttribute",j=a[h],k=a.setTimeout,l=a.requestAnimationFrame||k,m=a.requestIdleCallback,n=/^picture$/i,o=["load","error","lazyincluded","_lazyloaded"],p={},q=Array.prototype.forEach,r=function(a,b){return p[b]||(p[b]=new RegExp("(\\s|^)"+b+"(\\s|$)")),p[b].test(a[i]("class")||"")&&p[b]},s=function(a,b){r(a,b)||a.setAttribute("class",(a[i]("class")||"").trim()+" "+b)},t=function(a,b){var c;(c=r(a,b))&&a.setAttribute("class",(a[i]("class")||"").replace(c," "))},u=function(a,b,c){var d=c?h:"removeEventListener";c&&u(a,b),o.forEach(function(c){a[d](c,b)})},v=function(a,d,e,f,g){var h=b.createEvent("CustomEvent");return e||(e={}),e.instance=c,h.initCustomEvent(d,!f,!g,e),a.dispatchEvent(h),h},w=function(b,c){var e;!g&&(e=a.picturefill||d.pf)?e({reevaluate:!0,elements:[b]}):c&&c.src&&(b.src=c.src)},x=function(a,b){return(getComputedStyle(a,null)||{})[b]},y=function(a,b,c){for(c=c||a.offsetWidth;c<d.minSize&&b&&!a._lazysizesWidth;)c=b.offsetWidth,b=b.parentNode;return c},z=function(){var a,c,d=[],e=[],f=d,g=function(){var b=f;for(f=d.length?e:d,a=!0,c=!1;b.length;)b.shift()();a=!1},h=function(d,e){a&&!e?d.apply(this,arguments):(f.push(d),c||(c=!0,(b.hidden?k:l)(g)))};return h._lsFlush=g,h}(),A=function(a,b){return b?function(){z(a)}:function(){var b=this,c=arguments;z(function(){a.apply(b,c)})}},B=function(a){var b,c=0,d=125,e=666,g=e,h=function(){b=!1,c=f.now(),a()},i=m?function(){m(h,{timeout:g}),g!==e&&(g=e)}:A(function(){k(h)},!0);return function(a){var e;(a=a===!0)&&(g=44),b||(b=!0,e=d-(f.now()-c),0>e&&(e=0),a||9>e&&m?i():k(i,e))}},C=function(a){var b,c,d=99,e=function(){b=null,a()},g=function(){var a=f.now()-c;d>a?k(g,d-a):(m||e)(e)};return function(){c=f.now(),b||(b=k(g,d))}},D=function(){var g,l,m,o,p,y,D,F,G,H,I,J,K,L,M=/^img$/i,N=/^iframe$/i,O="onscroll"in a&&!/glebot/.test(navigator.userAgent),P=0,Q=0,R=0,S=-1,T=function(a){R--,a&&a.target&&u(a.target,T),(!a||0>R||!a.target)&&(R=0)},U=function(a,c){var d,f=a,g="hidden"==x(b.body,"visibility")||"hidden"!=x(a,"visibility");for(F-=c,I+=c,G-=c,H+=c;g&&(f=f.offsetParent)&&f!=b.body&&f!=e;)g=(x(f,"opacity")||1)>0,g&&"visible"!=x(f,"overflow")&&(d=f.getBoundingClientRect(),g=H>d.left&&G<d.right&&I>d.top-1&&F<d.bottom+1);return g},V=function(){var a,f,h,j,k,m,n,p,q,r=c.elements;if((o=d.loadMode)&&8>R&&(a=r.length)){f=0,S++,null==K&&("expand"in d||(d.expand=e.clientHeight>500&&e.clientWidth>500?500:370),J=d.expand,K=J*d.expFactor),K>Q&&1>R&&S>2&&o>2&&!b.hidden?(Q=K,S=0):Q=o>1&&S>1&&6>R?J:P;for(;a>f;f++)if(r[f]&&!r[f]._lazyRace)if(O)if((p=r[f][i]("data-expand"))&&(m=1*p)||(m=Q),q!==m&&(y=innerWidth+m*L,D=innerHeight+m,n=-1*m,q=m),h=r[f].getBoundingClientRect(),(I=h.bottom)>=n&&(F=h.top)<=D&&(H=h.right)>=n*L&&(G=h.left)<=y&&(I||H||G||F)&&(d.loadHidden||"hidden"!=x(r[f],"visibility"))&&(l&&3>R&&!p&&(3>o||4>S)||U(r[f],m))){if(ba(r[f]),k=!0,R>9)break}else!k&&l&&!j&&4>R&&4>S&&o>2&&(g[0]||d.preloadAfterLoad)&&(g[0]||!p&&(I||H||G||F||"auto"!=r[f][i](d.sizesAttr)))&&(j=g[0]||r[f]);else ba(r[f]);j&&!k&&ba(j)}},W=B(V),X=function(a){s(a.target,d.loadedClass),t(a.target,d.loadingClass),u(a.target,Z),v(a.target,"lazyloaded")},Y=A(X),Z=function(a){Y({target:a.target})},$=function(a,b){try{a.contentWindow.location.replace(b)}catch(c){a.src=b}},_=function(a){var b,c=a[i](d.srcsetAttr);(b=d.customMedia[a[i]("data-media")||a[i]("media")])&&a.setAttribute("media",b),c&&a.setAttribute("srcset",c)},aa=A(function(a,b,c,e,f){var g,h,j,l,o,p;(o=v(a,"lazybeforeunveil",b)).defaultPrevented||(e&&(c?s(a,d.autosizesClass):a.setAttribute("sizes",e)),h=a[i](d.srcsetAttr),g=a[i](d.srcAttr),f&&(j=a.parentNode,l=j&&n.test(j.nodeName||"")),p=b.firesLoad||"src"in a&&(h||g||l),o={target:a},p&&(u(a,T,!0),clearTimeout(m),m=k(T,2500),s(a,d.loadingClass),u(a,Z,!0)),l&&q.call(j.getElementsByTagName("source"),_),h?a.setAttribute("srcset",h):g&&!l&&(N.test(a.nodeName)?$(a,g):a.src=g),f&&(h||l)&&w(a,{src:g})),a._lazyRace&&delete a._lazyRace,t(a,d.lazyClass),z(function(){(!p||a.complete&&a.naturalWidth>1)&&(p?T(o):R--,X(o))},!0)}),ba=function(a){var b,c=M.test(a.nodeName),e=c&&(a[i](d.sizesAttr)||a[i]("sizes")),f="auto"==e;(!f&&l||!c||!a[i]("src")&&!a.srcset||a.complete||r(a,d.errorClass))&&(b=v(a,"lazyunveilread").detail,f&&E.updateElem(a,!0,a.offsetWidth),a._lazyRace=!0,R++,aa(a,b,f,e,c))},ca=function(){if(!l){if(f.now()-p<999)return void k(ca,999);var a=C(function(){d.loadMode=3,W()});l=!0,d.loadMode=3,W(),j("scroll",function(){3==d.loadMode&&(d.loadMode=2),a()},!0)}};return{_:function(){p=f.now(),c.elements=b.getElementsByClassName(d.lazyClass),g=b.getElementsByClassName(d.lazyClass+" "+d.preloadClass),L=d.hFac,j("scroll",W,!0),j("resize",W,!0),a.MutationObserver?new MutationObserver(W).observe(e,{childList:!0,subtree:!0,attributes:!0}):(e[h]("DOMNodeInserted",W,!0),e[h]("DOMAttrModified",W,!0),setInterval(W,999)),j("hashchange",W,!0),["focus","mouseover","click","load","transitionend","animationend","webkitAnimationEnd"].forEach(function(a){b[h](a,W,!0)}),/d$|^c/.test(b.readyState)?ca():(j("load",ca),b[h]("DOMContentLoaded",W),k(ca,2e4)),c.elements.length?(V(),z._lsFlush()):W()},checkElems:W,unveil:ba}}(),E=function(){var a,c=A(function(a,b,c,d){var e,f,g;if(a._lazysizesWidth=d,d+="px",a.setAttribute("sizes",d),n.test(b.nodeName||""))for(e=b.getElementsByTagName("source"),f=0,g=e.length;g>f;f++)e[f].setAttribute("sizes",d);c.detail.dataAttr||w(a,c.detail)}),e=function(a,b,d){var e,f=a.parentNode;f&&(d=y(a,f,d),e=v(a,"lazybeforesizes",{width:d,dataAttr:!!b}),e.defaultPrevented||(d=e.detail.width,d&&d!==a._lazysizesWidth&&c(a,f,e,d)))},f=function(){var b,c=a.length;if(c)for(b=0;c>b;b++)e(a[b])},g=C(f);return{_:function(){a=b.getElementsByClassName(d.autosizesClass),j("resize",g)},checkElems:g,updateElem:e}}(),F=function(){F.i||(F.i=!0,E._(),D._())};return function(){var b,c={lazyClass:"lazyload",loadedClass:"lazyloaded",loadingClass:"lazyloading",preloadClass:"lazypreload",errorClass:"lazyerror",autosizesClass:"lazyautosizes",srcAttr:"data-src",srcsetAttr:"data-srcset",sizesAttr:"data-sizes",minSize:40,customMedia:{},init:!0,expFactor:1.5,hFac:.8,loadMode:2,loadHidden:!0};d=a.lazySizesConfig||a.lazysizesConfig||{};for(b in c)b in d||(d[b]=c[b]);a.lazySizesConfig=d,k(function(){d.init&&F()})}(),c={cfg:d,autoSizer:E,loader:D,init:F,uP:w,aC:s,rC:t,hC:r,fire:v,gW:y,rAF:z}}});
+   </script>
+   <script async="" src="/public/build/valnet-header.d4ce05f8.js">
+   </script>
+   <link href="https://www.xda-developers.com/" rel="canonical">
+    <title>
+     XDA Portal &amp; Forums
+    </title>
+    <meta content="Founded in 2002, XDA is the world’s largest smartphone and electronics community. Looking for the latest tech news and reviews? Want to do more with your Android phone, Windows PC, iPhone, iPad, or MacBook? Look no further than XDA." name="description">
+     <meta content="max-image-preview:large" name="robots"/>
+     <meta content="XDA Portal &amp; Forums" property="og:title"/>
+     <meta content="website" property="og:type"/>
+     <meta content="https://static1.xdaimages.com/wordpress/wp-content/uploads/social/xda-og-img.png" property="og:image"/>
+     <meta content="1400" property="og:image:width"/>
+     <meta content="700" property="og:image:height"/>
+     <meta content="https://www.xda-developers.com/" property="og:url"/>
+     <meta content="en_US" property="og:locale"/>
+     <meta content="Founded in 2002, XDA is the world’s largest smartphone and electronics community. Looking for the latest tech news and reviews? Want to do more with your Android phone, Windows PC, iPhone, iPad, or MacBook? Look no further than XDA." property="og:description"/>
+     <meta content="XDA Developers" property="og:site_name"/>
+     <meta content="https://www.facebook.com/xda.developers" property="article:publisher"/>
+     <meta content="summary_large_image" name="twitter:card"/>
+     <meta content="@xdadevelopers" name="twitter:site"/>
+     <meta content="XDA Portal &amp; Forums" name="twitter:title"/>
+     <meta content="Founded in 2002, XDA is the world’s largest smartphone and electronics community. Looking for the latest tech news and reviews? Want to do more with your Android phone, Windows PC, iPhone, iPad, or MacBook? Look no further than XDA." name="twitter:description"/>
+     <meta content="https://static1.xdaimages.com/wordpress/wp-content/uploads/social/xda-og-img.png" name="twitter:image"/>
+     <meta content="457224991007811" property="fb:app_id">
+      <!-- FAVICON -->
+      <!-- https://www.favicon-generator.org/ -->
+      <link href="/public/build/images/favicon-48x48.8f822f21.png" rel="icon" sizes="48x48"/>
+      <link href="/public/build/images/favicon-96x96.456368e2.png" rel="icon" sizes="96x96"/>
+      <link href="/public/build/images/favicon-144x144.3bf91909.png" rel="icon" sizes="144x144"/>
+      <link href="/public/build/images/favicon-192x192.0e68e523.png" rel="icon" sizes="192x192"/>
+      <link href="/public/build/images/favicon-240x240.43161a66.png" rel="icon" sizes="240x240"/>
+      <link href="/public/build/images/favicon-240x240.43161a66.png" rel="apple-touch-icon" sizes="240x240"/>
+      <link href="/public/build/images/favicon-192x192.0e68e523.png" rel="shortcut icon"/>
+      <!-- Using AdsNinja V10 -->
+      <!-- Ad Header Start -->
+      <!-- Chosen Ad Setup: Home Desktop. -->
+      <link as="style" href="https://cdn.adsninja.ca/adsninja_client_style.css?v=1694122858" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/>
+      <noscript>
+       <link href="https://cdn.adsninja.ca/adsninja_client_style.css?v=1694122858" rel="stylesheet"/>
+      </noscript>
+      <!-- Ad Header End -->
+      <!-- GLOABL JS VARIABLES -->
+      <script>
+       var valnet_site_viewType = "direct";
+    var valnet_site_view = "all";
+    var valnet_site_campaign = "";
+    var valnet_site_device = "desktop";
+    var valnet_hideAds = false;
+      </script>
+     </meta>
+    </meta>
+   </link>
+  </meta>
+ </head>
+ <body class="w-website js-tldr">
+  <!-- No winning ad found for zone: body injected! -->
+  <div id="body-anchor">
+  </div>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MSPSR2X" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <header class="w-header" id="js-header">
+   <h1 aria-level="1" class="hide" itemprop="headline" title="XDA">
+    XDA
+   </h1>
+   <div class="wrapper main-navigation">
+    <div class="header-nav nav-menu">
+     <div class="nav-left">
+      <div class="menu-icon topnav-icon icon i-menu-new js-open-sidemenu">
+      </div>
+      <div class="menu-icon topnav-icon icon i-search-menu" id="js-search">
+      </div>
+     </div>
+     <div class="header-logo">
+      <a href="/" rel="home">
+       <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="/public/build/images/xda-logo-full-colored-light.svg?v=1.7"/>
+        <img alt="XDA Developers logo" height="64" src="/public/build/images/xda-logo-full-colored-light.svg?v=1.7" title="XDA Developers" width="200"/>
+       </picture>
+      </a>
+     </div>
+     <div class="nav-right">
+      <div class="nav-elements is-mobile-hidden">
+       <a class="nav-link nav-newsletter js-menu-nav-link js-sidebar-menu-nav-link icon i-newsletter" href="/page/newsletter/" itemprop="url">
+        Newsletter
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <nav class="wrapper subnav-navigation">
+    <div class="header-nav subnav-menu">
+     <span class="subnav-elements menu-trending">
+      Trending
+     </span>
+     <span class="subnav-elements icon">
+      <a class="subnav-link js-menu-nav-link js-header-menu-nav-link" href="https://www.xda-developers.com/5-exciting-features-windows-11-23h2/" itemprop="url">
+       Windows 11 23H2
+      </a>
+     </span>
+     <span class="subnav-elements icon">
+      <a class="subnav-link js-menu-nav-link js-header-menu-nav-link" href="https://www.xda-developers.com/lenovo-legion-9i-go-ifa-2023/" itemprop="url">
+       Lenovo Legion Go
+      </a>
+     </span>
+     <span class="subnav-elements icon">
+      <a class="subnav-link js-menu-nav-link js-header-menu-nav-link" href="https://www.xda-developers.com/iphone-15-to-be-revealed/" itemprop="url">
+       iPhone 15
+      </a>
+     </span>
+     <span class="subnav-elements icon">
+      <a class="subnav-link js-menu-nav-link js-header-menu-nav-link" href="https://www.xda-developers.com/on-this-day/" itemprop="url">
+       On this day
+      </a>
+     </span>
+     <span class="subnav-elements icon">
+      <a class="subnav-link js-menu-nav-link js-header-menu-nav-link" href="https://www.xda-developers.com/windows-11/" itemprop="url">
+       Windows 11
+      </a>
+     </span>
+     <span class="subnav-elements icon">
+      <a class="subnav-link js-menu-nav-link js-header-menu-nav-link" href="https://forum.xda-developers.com/" itemprop="url">
+       Forums
+      </a>
+     </span>
+    </div>
+   </nav>
+   <div class="side-navigation sidemenu" id="side-navigation">
+    <div class="side-navigation-topbar">
+     <div class="menu-icon topbar-icon icon i-search-menu" id="js-search">
+     </div>
+     <div class="menu-icon topbar-icon icon i-close-menu">
+     </div>
+    </div>
+    <nav class="side-navigation-menu" id="menu-site">
+     <ul class="side-navigation-list" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement">
+      <li class="sidenav-section">
+       <ul class="side-navigation-list">
+        <li class="w-sidenav-subnav sidenav-elements standard" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/news/" itemprop="url">
+          <span>
+           News &amp; Deals
+          </span>
+         </a>
+         <span class="menu-icon sidenav-icon icon subnav-icon js-subnav">
+         </span>
+         <ul class="sidenav-subnav">
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/category/computing-news/" itemprop="url">
+            <span>
+             News
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/deals/" itemprop="url">
+            <span>
+             Deals
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="w-sidenav-subnav sidenav-elements standard" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/reviews/" itemprop="url">
+          <span>
+           Reviews
+          </span>
+         </a>
+         <span class="menu-icon sidenav-icon icon subnav-icon js-subnav">
+         </span>
+         <ul class="sidenav-subnav">
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/category/computing-reviews/" itemprop="url">
+            <span>
+             Laptops
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/cpu-reviews/" itemprop="url">
+            <span>
+             CPUs
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/graphics-card-reviews/" itemprop="url">
+            <span>
+             Graphics cards
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/ssd-reviews/" itemprop="url">
+            <span>
+             SSDs
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/phone-reviews/" itemprop="url">
+            <span>
+             Phones
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="w-sidenav-subnav sidenav-elements standard" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/buying-guides/" itemprop="url">
+          <span>
+           Best Guides
+          </span>
+         </a>
+         <span class="menu-icon sidenav-icon icon subnav-icon js-subnav">
+         </span>
+         <ul class="sidenav-subnav">
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/best-laptops/" itemprop="url">
+            <span>
+             Best Laptops
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/best-chromebooks/" itemprop="url">
+            <span>
+             Best Chromebooks
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/best-cpus/" itemprop="url">
+            <span>
+             Best CPUs
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/best-graphics-cards/" itemprop="url">
+            <span>
+             Best graphics cards
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/best-ssds-sata-nvme/" itemprop="url">
+            <span>
+             Best SSDs
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/best-phones/" itemprop="url">
+            <span>
+             Best Phones
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="w-sidenav-subnav sidenav-elements standard" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/tutorials/" itemprop="url">
+          <span>
+           Tutorials
+          </span>
+         </a>
+         <span class="menu-icon sidenav-icon icon subnav-icon js-subnav">
+         </span>
+         <ul class="sidenav-subnav">
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/windows-tutorials/" itemprop="url">
+            <span>
+             Windows
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/macos-tutorials/" itemprop="url">
+            <span>
+             macOS
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/linux-tutorials/" itemprop="url">
+            <span>
+             Linux
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/chromeos-tutorials/" itemprop="url">
+            <span>
+             ChromeOS
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </li>
+      <li class="sidenav-section">
+       <ul class="side-navigation-list">
+        <li class="w-sidenav-subnav sidenav-elements standard" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/category/computing/" itemprop="url">
+          <span>
+           Topics
+          </span>
+         </a>
+         <span class="menu-icon sidenav-icon icon subnav-icon js-subnav">
+         </span>
+         <ul class="sidenav-subnav">
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/tag/acer/" itemprop="url">
+            <span>
+             Acer
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/apple-mac/" itemprop="url">
+            <span>
+             Apple
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/tag/dell/" itemprop="url">
+            <span>
+             Dell
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/tag/hp/" itemprop="url">
+            <span>
+             HP
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/tag/lenovo/" itemprop="url">
+            <span>
+             Lenovo
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/tag/microsoft/" itemprop="url">
+            <span>
+             Microsoft
+            </span>
+           </a>
+          </li>
+          <li class="sidenav-elements" itemprop="name">
+           <a class="sidenav-link js-sidebar-menu-nav-link standard" href="/tag/razer/" itemprop="url">
+            <span>
+             Razer
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </li>
+      <li class="w-sidenav-subnav sidenav-elements standard" itemprop="name">
+       <a class="sidenav-link js-sidebar-menu-nav-link standard" href="https://forum.xda-developers.com/" itemprop="url">
+        <span>
+         Forums
+        </span>
+       </a>
+       <span class="menu-icon sidenav-icon icon subnav-icon js-subnav">
+       </span>
+       <ul class="sidenav-subnav">
+        <li class="sidenav-elements" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link emphasized" href="https://forum.xda-developers.com/c/artificial-intelligence-ai-machine-learning-ml.12755/" itemprop="url">
+          <span>
+           NEW: AI and Machine Learning
+          </span>
+         </a>
+        </li>
+        <li class="sidenav-elements" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="https://forum.xda-developers.com/f/android-apps-and-games.530/" itemprop="url">
+          <span>
+           Android Apps and Games
+          </span>
+         </a>
+        </li>
+        <li class="sidenav-elements" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="https://forum.xda-developers.com/f/android-software-hacking-general-developers-only.565/" itemprop="url">
+          <span>
+           Android Mods
+          </span>
+         </a>
+        </li>
+        <li class="sidenav-elements" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="https://forum.xda-developers.com/f/android-themes.527/" itemprop="url">
+          <span>
+           Android Themes
+          </span>
+         </a>
+        </li>
+        <li class="sidenav-elements" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="https://forum.xda-developers.com/c/xda-computing.12289/" itemprop="url">
+          <span>
+           Computing
+          </span>
+         </a>
+        </li>
+        <li class="sidenav-elements" itemprop="name">
+         <a class="sidenav-link js-sidebar-menu-nav-link standard" href="https://forum.xda-developers.com/c/smartwatches.2102/" itemprop="url">
+          <span>
+           Smartwatches
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <ul class="side-navigation-list" id="menu-features">
+      <li class="sidenav-elements">
+       <span class="menu-icon feature-icon icon i-work">
+       </span>
+       <a class="sidenav-link emphasized" href="/careers/" itemprop="url">
+        <span>
+         Join Our Team
+        </span>
+       </a>
+      </li>
+      <li class="sidenav-elements">
+       <span class="menu-icon feature-icon icon i-menu-newsletter">
+       </span>
+       <a class="sidenav-link standard" href="/page/newsletter/" itemprop="url">
+        <span>
+         Newsletter
+        </span>
+       </a>
+      </li>
+      <li class="sidenav-elements">
+       <span class="menu-icon feature-icon icon i-menu-advertise">
+       </span>
+       <a class="sidenav-link standard" href="/page/advertise/" itemprop="url">
+        <span>
+         Advertise with us
+        </span>
+       </a>
+      </li>
+     </ul>
+     <ul class="side-navigation-social" id="menu-follow">
+      <li class="social-elements">
+       <a class="social-links icon i-youtube js-follow-us-links" href="https://www.youtube.com/user/xdadevelopers?sub_confirmation=1" target="_blank">
+       </a>
+      </li>
+      <li class="social-elements">
+       <a class="social-links icon i-facebook js-follow-us-links" href="https://www.facebook.com/xda.developers" target="_blank">
+       </a>
+      </li>
+      <li class="social-elements">
+       <a class="social-links icon i-instagram js-follow-us-links" href="https://www.instagram.com/xdasocial/" target="_blank">
+       </a>
+      </li>
+      <li class="social-elements">
+       <a class="social-links icon i-twitter js-follow-us-links" href="https://twitter.com/xdadevelopers" target="_blank">
+       </a>
+      </li>
+      <li class="social-elements">
+       <a class="social-links icon i-discord js-follow-us-links" href="https://discord.gg/e4v8qtkcBw" target="_blank">
+       </a>
+      </li>
+      <li class="social-elements">
+       <a class="social-links icon i-telegram js-follow-us-links" href="https://t.me/xdadevelopershub" target="_blank">
+       </a>
+      </li>
+      <li class="social-elements">
+       <a class="social-links icon i-feed js-follow-us-links" href="/feed/" target="_blank">
+       </a>
+      </li>
+      <li class="social-elements">
+       <a class="social-links icon i-newspaper js-follow-us-links" href="/page/newsletter/" target="_blank">
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <footer class="side-navigation-footer">
+     <nav class="menu-legal">
+      <ul>
+       <li>
+        <a class="write standard" href="/careers/">
+         Write For Us
+        </a>
+       </li>
+       <li>
+        <a class="menu-home- standard" href="/">
+         Home
+        </a>
+       </li>
+       <li>
+        <a class="menu-contact-us standard" href="/contact/">
+         Contact Us
+        </a>
+       </li>
+       <li>
+        <a class="menu-terms standard" href="/terms-of-use/">
+         Terms
+        </a>
+       </li>
+       <li>
+        <a class="menu-privacy standard" href="/privacy-policy/">
+         Privacy
+        </a>
+       </li>
+       <li>
+        <a class="menu-copyright standard" href="/dmca-take-down-policy/">
+         Copyright
+        </a>
+       </li>
+       <li>
+        <a class="menu-about-us standard" href="/about/">
+         About Us
+        </a>
+       </li>
+       <li>
+        <a class="menu-fact-checking-policy standard" href="/fact-checking-policy/">
+         Fact Checking Policy
+        </a>
+       </li>
+       <li>
+        <a class="menu-corrections-policy standard" href="/corrections-policy/">
+         Corrections Policy
+        </a>
+       </li>
+       <li>
+        <a class="menu-ethics-policy standard" href="/ethics-policy/">
+         Ethics Policy
+        </a>
+       </li>
+       <li>
+        <a class="menu-ownership-policy standard" href="/ownership-funding-advertising-policy/">
+         Ownership Policy
+        </a>
+       </li>
+       <li>
+        <a class="menu-disclosure-policy standard" href="/page/xda-disclosure-policy/">
+         Disclosure Policy
+        </a>
+       </li>
+       <li>
+        <a class="menu-advertise standard" href="https://www.xda-developers.com/page/advertise/">
+         Advertise
+        </a>
+       </li>
+       <li>
+        <a class="menu-recognized-developer-program standard" href="/page/recognized-developer-program/">
+         Recognized Developer Program
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <div id="ccpa-link">
+     </div>
+     <div class="footer-copy">
+      Copyright © 2023 www.xda-developers.com
+     </div>
+    </footer>
+   </div>
+  </header>
+  <div class="w-header-search js-search-target">
+   <div class="header-search-exit icon i-close" id="js-exit-search">
+   </div>
+   <div class="header-search">
+    <form action="/search/?q=" class="search-form js-searchBox icon i-search" id="searchform2" method="get">
+     <input autocomplete="off" autofocus="" class="input-text search-input" id="s2" name="q" placeholder="Search XDA Developers" type="text"/>
+    </form>
+   </div>
+  </div>
+  <!-- No winning ad found for zone: sticky header! -->
+  <!-- Zone: header. -->
+  <!-- No ads allowed! -->
+  <main class="w-content">
+   <script type="application/ld+json">
+    {
+                        "@context": "http://schema.org",
+                        "@type": "WebPage",
+                        "mainEntityOfPage": {
+                            "@type": "WebPage",
+                            "@id": "https://www.xda-developers.com/"
+                        },
+                        "headline": "XDA Portal &amp; Forums"
+                    }
+   </script>
+   <script type="application/ld+json">
+    {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "@id": "https://www.xda-developers.com/#website",
+            "name" : "XDA",
+            "url": "https://www.xda-developers.com",
+            "foundingDate" : "2002",
+            "alternateName" : "XDA",
+                        "sameAs":[
+                "https://www.youtube.com/user/xdadevelopers?sub_confirmation=1",    
+            "https://www.facebook.com/xda.developers",    
+            "https://www.instagram.com/xdasocial/",    
+            "https://twitter.com/xdadevelopers",    
+            "https://discord.gg/e4v8qtkcBw",    
+            "https://t.me/xdadevelopershub"    
+        ],
+
+            "logo": {
+                "@type": "ImageObject",
+                 "url": "https://www.xda-developers.com/public/build/images/xda-amp-logo.png",
+                "caption":"XDA Developers Logo"
+            }
+        }
+   </script>
+   <section class="wrapper w-affiliate">
+    <div class="w-grid-system grid-c1">
+     <div class="affiliate-sponsored">
+      <span data-nosnippet="">
+       Readers like you help support XDA Developers. When you make a purchase using links on our site, we may earn an affiliate commission.
+       <a href="/page/terms-of-use/">
+        Read More.
+       </a>
+      </span>
+     </div>
+    </div>
+   </section>
+   <section class="wrapper w-featured-pinned-article">
+    <div class="w-grid-system grid-content featured-5-pin-large">
+     <section class="featured-primary">
+      <div class="sentinel-featuredPrimary">
+       <article class="browse-clip item-1 js-content" data-content-id="1005851">
+        <span class="bc-comment-count disqus-comment-count" data-disqus-identifier="1005851 https://www.xda-developers.com/?p=1005851">
+        </span>
+        <a class="bc-img-link" href="/amd-radeon-rx-7700-xt-and-7800-xt-review/">
+         <div class="bc-img responsive-img img-featured-5-pin-large-size-featured-primary">
+          <figure>
+           <picture>
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source media="(min-width: 1024px)" sizes="535px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/amd-radeon-rx-7700-xt-7800-xt-gpu.jpg?q=50&amp;fit=crop&amp;w=535&amp;h=442&amp;dpr=1.5"/>
+            <source media="(min-width: 768px)" sizes="943px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/amd-radeon-rx-7700-xt-7800-xt-gpu.jpg?q=50&amp;fit=crop&amp;w=943&amp;h=525&amp;dpr=1.5"/>
+            <source media="(min-width: 481px)" sizes="737px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/amd-radeon-rx-7700-xt-7800-xt-gpu.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5"/>
+            <source media="(min-width: 0px)" sizes="450px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/amd-radeon-rx-7700-xt-7800-xt-gpu.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="AMD Radeon RX 7700 XT and RX 7800 XT" height="650" style="display:block;height:auto;max-width:100%;" width="1300"/>
+           </picture>
+          </figure>
+         </div>
+        </a>
+        <div class="bc-info">
+         <h3 class="bc-title">
+          <a class="bc-title-link" href="/amd-radeon-rx-7700-xt-and-7800-xt-review/" title="AMD Radeon RX 7700 XT and 7800 XT review: Impressive 2K performance at somewhat reasonable prices">
+           AMD Radeon RX 7700 XT and 7800 XT review: Impressive 2K performance at somewhat reasonable prices
+          </a>
+         </h3>
+        </div>
+       </article>
+      </div>
+     </section>
+     <section class="featured-secondary">
+      <div class="sentinel-featuredSecondary">
+       <article class="browse-clip item-1 js-content" data-content-id="1005847">
+        <span class="bc-comment-count disqus-comment-count" data-disqus-identifier="1005847 https://www.xda-developers.com/?p=1005847">
+        </span>
+        <a class="bc-img-link" href="/cinebench-2024-released/">
+         <div class="bc-img responsive-img img-featured-5-pin-large-size-featured-secondary">
+          <figure>
+           <picture>
+            <!--[if IE 9]>
+                                        <video style="display: none;"><![endif]-->
+            <source class="lazyload" media="(min-width: 1024px)" sizes="365px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/cinebench_desktop.png?q=50&amp;fit=crop&amp;w=365&amp;h=212&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 768px)" sizes="464px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/cinebench_desktop.png?q=50&amp;fit=crop&amp;w=464&amp;h=280&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 481px)" sizes="737px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/cinebench_desktop.png?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 0px)" sizes="450px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/cinebench_desktop.png?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="Cinebench_Desktop" height="650" style="display:block;height:auto;max-width:100%;" width="1300"/>
+           </picture>
+          </figure>
+         </div>
+        </a>
+        <div class="bc-info">
+         <h3 class="bc-title">
+          <a class="bc-title-link" href="/cinebench-2024-released/" title="Cinebench 2024 released with GPU testing and wider platform support">
+           Cinebench 2024 released with GPU testing and wider platform support
+          </a>
+         </h3>
+        </div>
+       </article>
+       <article class="browse-clip item-1 js-content" data-content-id="1005921">
+        <span class="bc-comment-count disqus-comment-count" data-disqus-identifier="1005921 https://www.xda-developers.com/?p=1005921">
+        </span>
+        <a class="bc-img-link" href="/windows-11-paint-app-background-removal/">
+         <div class="bc-img responsive-img img-featured-5-pin-large-size-featured-secondary">
+          <figure>
+           <picture>
+            <!--[if IE 9]>
+                                        <video style="display: none;"><![endif]-->
+            <source class="lazyload" media="(min-width: 1024px)" sizes="365px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/paint-background-removal-windows-11-paint-app.png?q=50&amp;fit=crop&amp;w=365&amp;h=212&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 768px)" sizes="464px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/paint-background-removal-windows-11-paint-app.png?q=50&amp;fit=crop&amp;w=464&amp;h=280&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 481px)" sizes="737px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/paint-background-removal-windows-11-paint-app.png?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 0px)" sizes="450px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/paint-background-removal-windows-11-paint-app.png?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="Paint Background removal WIndows 11 Paint App" height="650" style="display:block;height:auto;max-width:100%;" width="1300"/>
+           </picture>
+          </figure>
+         </div>
+        </a>
+        <div class="bc-info">
+         <h3 class="bc-title">
+          <a class="bc-title-link" href="/windows-11-paint-app-background-removal/" title="Paint for Windows 11 is getting background removal">
+           Paint for Windows 11 is getting background removal
+          </a>
+         </h3>
+        </div>
+       </article>
+       <article class="browse-clip item-1 js-content" data-content-id="1005668">
+        <span class="bc-comment-count disqus-comment-count" data-disqus-identifier="1005668 https://www.xda-developers.com/?p=1005668">
+        </span>
+        <a class="bc-img-link" href="/seagate-firecuda-540-ssd-review/">
+         <div class="bc-img responsive-img img-featured-5-pin-large-size-featured-secondary">
+          <figure>
+           <picture>
+            <!--[if IE 9]>
+                                        <video style="display: none;"><![endif]-->
+            <source class="lazyload" media="(min-width: 1024px)" sizes="365px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/seagate-firecuda-540-above.png?q=50&amp;fit=crop&amp;w=365&amp;h=212&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 768px)" sizes="464px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/seagate-firecuda-540-above.png?q=50&amp;fit=crop&amp;w=464&amp;h=280&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 481px)" sizes="737px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/seagate-firecuda-540-above.png?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 0px)" sizes="450px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/seagate-firecuda-540-above.png?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="Seagate FireCuda 540 from above." height="650" style="display:block;height:auto;max-width:100%;" width="1300"/>
+           </picture>
+          </figure>
+         </div>
+        </a>
+        <div class="bc-info">
+         <h3 class="bc-title">
+          <a class="bc-title-link" href="/seagate-firecuda-540-ssd-review/" title="Seagate FireCuda 540 review: The world's most durable PCIe 5.0 SSD">
+           Seagate FireCuda 540 review: The world's most durable PCIe 5.0 SSD
+          </a>
+         </h3>
+        </div>
+       </article>
+       <article class="browse-clip item-1 js-content" data-content-id="1005919">
+        <span class="bc-comment-count disqus-comment-count" data-disqus-identifier="1005919 https://www.xda-developers.com/?p=1005919">
+        </span>
+        <a class="bc-img-link" href="/apple-releases-ios-16-6-1-macos-ventura-13-5-2/">
+         <div class="bc-img responsive-img img-featured-5-pin-large-size-featured-secondary">
+          <figure>
+           <picture>
+            <!--[if IE 9]>
+                                        <video style="display: none;"><![endif]-->
+            <source class="lazyload" media="(min-width: 1024px)" sizes="365px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/04/This-is-our-WWDC22-feature-wishlist-for-iOS-16-iPadOS-16-watchOS-9-and-macOS-13.jpg?q=50&amp;fit=crop&amp;w=365&amp;h=212&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 768px)" sizes="464px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/04/This-is-our-WWDC22-feature-wishlist-for-iOS-16-iPadOS-16-watchOS-9-and-macOS-13.jpg?q=50&amp;fit=crop&amp;w=464&amp;h=280&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 481px)" sizes="737px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/04/This-is-our-WWDC22-feature-wishlist-for-iOS-16-iPadOS-16-watchOS-9-and-macOS-13.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=450&amp;dpr=1.5"/>
+            <source class="lazyload" media="(min-width: 0px)" sizes="450px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/04/This-is-our-WWDC22-feature-wishlist-for-iOS-16-iPadOS-16-watchOS-9-and-macOS-13.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=300&amp;dpr=1.5"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="This is our WWDC22 feature wishlist for iOS 16, iPadOS 16, watchOS 9, and macOS 13" height="650" style="display:block;height:auto;max-width:100%;" width="1300"/>
+           </picture>
+          </figure>
+         </div>
+        </a>
+        <div class="bc-info">
+         <h3 class="bc-title">
+          <a class="bc-title-link" href="/apple-releases-ios-16-6-1-macos-ventura-13-5-2/" title="Apple releases iOS 16.6.1 and macOS Ventura 13.5.2, here's what's new">
+           Apple releases iOS 16.6.1 and macOS Ventura 13.5.2, here's what's new
+          </a>
+         </h3>
+        </div>
+       </article>
+      </div>
+     </section>
+    </div>
+   </section>
+   <section class="wrapper w-section-latest">
+    <div class="w-grid-system grid-content">
+     <div class="adzone-above-latest">
+      <!-- Zone: above latest. -->
+      <!-- No ads allowed! -->
+     </div>
+     <div class="section-latest-news">
+      <div class="w-tabs-loader" id="home-tabs-loader" style="visibility: hidden">
+       <span class="tabs-loader">
+       </span>
+      </div>
+      <div class="section-header has-listing-tabs">
+       <h2 class="section-title" id="home-latest-title">
+        Latest
+       </h2>
+       <div class="listing-tabs">
+        <a class="section-title home-latest is-active" data-permalink="/" data-showmorepermalink="" data-title="Latest" id="listing-tabs-latest">
+         All
+        </a>
+        <a class="section-title home-latest" data-permalink="/featured-computing/" data-showmorepermalink="" data-title="Latest Must-read Computing" id="listing-tabs-movies">
+         Must-read Computing
+        </a>
+       </div>
+      </div>
+      <div class="sentinel-home-list">
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005959 https://www.xda-developers.com/?p=1005959">
+        </span>
+        <a class="dc-img-link" href="/85-inch-qn900c-deal/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/xda-15.png?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/xda-15.png?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/xda-15.png?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/xda-15.png?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Samsung QN900C in grey living room  1" class="lazyload" height="2000" style="display:block;height:auto;max-width:100%;" width="3000"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/85-inch-qn900c-deal/">
+           Discover Samsung deal slashes $2000 off 85-inch Neo QLED 8K TV
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          A phenomenal deal that knocks $2000 off, dropping it down to its lowest price yet.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6465bd8161745-IMG-20230517-WA0003_1684388954173.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/timicant/" rel="author" title="Posts by Timi Cantisano">
+            Timi Cantisano
+           </a>
+           <time class="display-card-date" datetime="2023-09-11T13:35:10Z">
+            50 minutes ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         This is the TV you want if you're looking for the
+         <a href="https://www.xda-developers.com/best-tv/">
+          best 8K TV
+         </a>
+         available right now. While most TVs typically offer 4K resolution, this model steps things up quite a bit by going to 8K. Furthermore, you're getting a massive 85-inch screen that feels expansive when watchings TV shows and movies. Despite its size, you're still getting a super sleek TV with plenty of connectivity options.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005855 https://www.xda-developers.com/?p=1005855">
+        </span>
+        <a class="dc-img-link" href="/ios-17-review/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/img_0194.jpeg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/img_0194.jpeg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/img_0194.jpeg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/img_0194.jpeg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="iOS 17 Lock Screen on iPhone 14 Pro 1" class="lazyload" height="2009" style="display:block;height:auto;max-width:100%;" width="3013"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/ios-17-review/">
+           iOS 17 review: The bubble is now greener on the other side
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Apple is embracing its tight ecosystem with this release, further alienating Android users in the process.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F64f6f413371d6-IMG_5044.jpeg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/mahmoud-xda/" rel="author" title="Posts by Mahmoud Itani">
+            Mahmoud Itani
+           </a>
+           <time class="display-card-date" datetime="2023-09-11T13:00:26Z">
+            1 hour ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Along with
+         <a href="http://xda-developers.com/macos-14">
+          macOS Sonoma
+         </a>
+         ,
+         <a href="http://xda-developers.com/ipados-17">
+          iPadOS 17
+         </a>
+         , and
+         <a href="https://www.xda-developers.com/watchos-10">
+          watchOS 10
+         </a>
+         , Apple previewed iOS 17 during WWDC23. Since then, we've thoroughly tested every beta build of this release and observed it as it matured. And now that the stable version is about to land on the
+         <a href="http://xda-developers.com/best-iphone">
+          latest iPhones
+         </a>
+         , it's time to share our experience.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005907 https://www.xda-developers.com/?p=1005907">
+        </span>
+        <a class="dc-img-link" href="/how-backup-nas/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/synology-diskstation-d224-min.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/synology-diskstation-d224-min.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/synology-diskstation-d224-min.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/synology-diskstation-d224-min.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="A Synology DiskStation D224+ NAS with two hard drives 1" class="lazyload" height="1400" style="display:block;height:auto;max-width:100%;" width="2100"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/how-backup-nas/">
+           How to backup a NAS
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Backing up a NAS is a bit of a complicated endeavor, and it's not really as simple as just plugging in an external drive and saving your data.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F63ea6c458eb41-professionalpfp.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/adamconway-xda/" rel="author" title="Posts by Adam Conway">
+            Adam Conway
+           </a>
+           <time class="display-card-date" datetime="2023-09-11T12:00:29Z">
+            2 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         If you have a
+         <a href="https://www.xda-developers.com/nas-beginners-guide/">
+          NAS
+         </a>
+         , then chances are you've been using it to store all kinds of important data. Maybe you have a large collection of movies and TV shows, or something like NextCloud set up as a Google Photos alternative. No matter what, though, you'll want to make sure that data is kept safe, which is why you should protect your data by backing up your NAS.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005953 https://www.xda-developers.com/?p=1005953">
+        </span>
+        <a class="dc-img-link" href="/apple-might-discontinue-iphone-13-mini/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2021/09/iPhone-13-Mini-XDA-23425lk3jlk.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2021/09/iPhone-13-Mini-XDA-23425lk3jlk.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2021/09/iPhone-13-Mini-XDA-23425lk3jlk.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2021/09/iPhone-13-Mini-XDA-23425lk3jlk.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="iPhone 13 and iPhone 13 Mini. 1" class="lazyload" height="800" style="display:block;height:auto;max-width:100%;" width="1200"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/apple-might-discontinue-iphone-13-mini/">
+           Apple might discontinue iPhone 13 Mini after iPhone 15 announcement
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          iPhone SE 3 could soon become the only option available for those wanting to get a smaller iPhone.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F63dbd2dc2dbd7-20210122214044_IMG_3309.JPG?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/rahul-naskar/" rel="author" title="Posts by Rahul Naskar">
+            Rahul Naskar
+           </a>
+           <time class="display-card-date" datetime="2023-09-11T06:43:21Z">
+            8 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         If you are a fan of smaller phones, you may soon run out of the option to buy the iPhone 13 Mini. After two years since its launch, Apple is reportedly planning to discontinue the iPhone 13 Mini following the
+         <a href="https://www.xda-developers.com/apple-iphone-15/">
+          iPhone 15
+         </a>
+         announcement event, all set to
+         <a href="https://www.xda-developers.com/iphone-15-to-be-revealed/">
+          take place tomorrow, September 12
+         </a>
+         .
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005929 https://www.xda-developers.com/?p=1005929">
+        </span>
+        <a class="dc-img-link" href="/generate-ssh-key-windows/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/wndows-desktop-command-prompt-puttygen-ssh-keys.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/wndows-desktop-command-prompt-puttygen-ssh-keys.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/wndows-desktop-command-prompt-puttygen-ssh-keys.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/wndows-desktop-command-prompt-puttygen-ssh-keys.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Windows desktop showing Command Prompt and PuTTYgen windows 1" class="lazyload" height="1280" style="display:block;height:auto;max-width:100%;" width="1920"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/generate-ssh-key-windows/">
+           How to generate SSH keys on Windows
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          SSH keys allow enhanced security and convenience for authentication. Here's how you can easily generate SSH keys on Windows
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F64be9d763263e-613eeb2842b66-IMG-20170614-WA0017.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/tanveer-singh/" rel="author" title="Posts by Tanveer Singh">
+            Tanveer Singh
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T22:01:27Z">
+            16 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         If you find yourself logging into a remote server on your Windows machine repeatedly, you probably know you need SSH keys. Besides being a more secure way of authentication, SSH keys are more convenient than conventional passwords, and offer a variety of additional benefits. Generating SSH keys on
+         <a href="https://www.xda-developers.com/windows-11/">
+          Windows 11
+         </a>
+         is fairly simple and you can do it in a number of ways, based on your preferences and what system you're used to. So, let's get into the various methods you can use to generate SSH keys on Windows.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005938 https://www.xda-developers.com/?p=1005938">
+        </span>
+        <a class="dc-img-link" href="/how-cancel-microsoft-365/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/cancel-microsoft-365.png?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/cancel-microsoft-365.png?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/cancel-microsoft-365.png?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/cancel-microsoft-365.png?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Screenshot of Microsoft 365 apps open alongside the Microsoft 365 subscription management page showing the cancel button. A Microsoft logo is overlaid on top of the image 1" class="lazyload" height="2080" style="display:block;height:auto;max-width:100%;" width="3120"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/how-cancel-microsoft-365/">
+           How to cancel Microsoft 365
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          No longer need your Microsoft 365 subscription? Here's how to cancel it so it doesn't get renewed.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6351bd4de2ce7-Pic%201.jpeg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/joao-xda/" rel="author" title="Posts by João Carrasqueira">
+            João Carrasqueira
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T18:00:28Z">
+            20 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Microsoft 365 is a subscription service that gives you access to Microsoft's suite of apps like Word, PowerPoint, and Excel. While these apps let you make the most out of the
+         <a href="https://www.xda-developers.com/best-laptops/">
+          best laptops
+         </a>
+         on the market, web apps are available for many of these, and you may want to cancel your membership if you don't need the more advanced capabilities of the desktop apps. Here's how to do it.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005867 https://www.xda-developers.com/?p=1005867">
+        </span>
+        <a class="dc-img-link" href="/slow-death-xbox-kinect/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/xbox-kinect.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/xbox-kinect.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/xbox-kinect.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/xbox-kinect.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="An Xbox 360 Kinect (V1) connected to a PC with a Lenovo G510 laptop in the background 1" class="lazyload" height="1400" style="display:block;height:auto;max-width:100%;" width="2100"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/slow-death-xbox-kinect/">
+           The slow and painful death of Xbox Kinect
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          The Xbox Kinect caused quite a stir when it debuted in 2010, but subsequent versions of the camera failed to make any kind of dent
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F649e3b6926fde-ayush-pande.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/ayush-pande/" rel="author" title="Posts by Ayush Pande">
+            Ayush Pande
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T17:00:28Z">
+            21 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Back when it was announced in 2009, Microsoft’s Kinect sensor for the Xbox 360 seemed like a worthy rival to Sony’s Move controller and the Wii Remote. Unlike its competitors, Kinect wasn’t just a
+         <a href="https://www.xda-developers.com/best-pc-controllers/">
+          game controller
+         </a>
+         that could sense your wrist movements; it was a full-blown camera with infrared sensors that was capable of capturing the movements of your entire body. This would enable all kinds of cool ways to interact with games.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005925 https://www.xda-developers.com/?p=1005925">
+        </span>
+        <a class="dc-img-link" href="/how-to-watch-green-bay-packers-chicago-bears-live-stream/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/green-bay-packers-vs-chicago-bears.png?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/green-bay-packers-vs-chicago-bears.png?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/green-bay-packers-vs-chicago-bears.png?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/green-bay-packers-vs-chicago-bears.png?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="green bay packers vs chicago bears 1" class="lazyload" height="1600" style="display:block;height:auto;max-width:100%;" width="2400"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/how-to-watch-green-bay-packers-chicago-bears-live-stream/">
+           Packers vs Bears live stream: Start time and how to watch week 1 from anywhere
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Want to watch the NFL away from home? We'll show you how.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6411f599ad4df-joe-rice-jones-headshot.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/joe-rice-jones/" rel="author" title="Posts by Joe Rice-Jones">
+            Joe Rice-Jones
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T16:05:27Z">
+            22 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         The 2023 season of the NFL officially kicked off this week, and there are some fantastic matchups in this weekend's games. Longtime rivals the Chicago Bears and the Green Bay Packers square off on the gridiron on Sunday, on the Bears home turf.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="632731 https://www.xda-developers.com/?p=632731">
+        </span>
+        <a class="dc-img-link" href="/how-to-install-play-games-epic-games-store-steam-deck/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/epic-games-launcher-steam-deck.png?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/epic-games-launcher-steam-deck.png?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/epic-games-launcher-steam-deck.png?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/epic-games-launcher-steam-deck.png?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Epic Games Launcher on the Steam Deck. 1" class="lazyload" height="1312" style="display:block;height:auto;max-width:100%;" width="2100"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/how-to-install-play-games-epic-games-store-steam-deck/">
+           How to install and play games from the Epic Games Store on Steam Deck
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          In addition to Steam, you can also install the Epic Games Store and play games from there on the Valve Steam Deck. Here's how to do it.
+         </p>
+         <div class="w-display-card-details">
+          <div class="w-display-card-author-img">
+           <div class="display-card-author-img">
+            <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6352577006444-IMG_0516.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+            </img>
+           </div>
+           <div class="display-card-author-img">
+            <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F63f2d0c9bda7a-me%205%20crop.jpeg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;"/>
+           </div>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/richard-devine/" rel="author" title="Posts by Richard Devine">
+            Richard Devine
+           </a>
+           <span class="meta-text-author">
+           </span>
+           <span class="meta-text-author">
+            and
+           </span>
+           <a class="display-card-author" href="/author/matthew-connatser/" rel="author" title="Posts by Matthew Connatser">
+            Matthew Connatser
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T16:01:28Z">
+            22 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         The
+         <a href="https://www.xda-developers.com/steam-deck-review">
+          Steam Deck
+         </a>
+         is, of course, a handheld console designed to play games from Steam. But it's also a complete PC, so that means you have options as you do on your PC. Steam has always been able to add games from other sources to your library, and the same applies to the Steam Deck. But what about Epic? How do you play Epic Games Store titles on the Steam Deck?
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005926 https://www.xda-developers.com/?p=1005926">
+        </span>
+        <a class="dc-img-link" href="/how-to-watch-tennessee-titans-new-orleans-saints-live-stream/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/tennessee-titans-vs-new-orleans-saints.png?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/tennessee-titans-vs-new-orleans-saints.png?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/tennessee-titans-vs-new-orleans-saints.png?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/tennessee-titans-vs-new-orleans-saints.png?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="tennessee titans vs new orleans saints 1" class="lazyload" height="1600" style="display:block;height:auto;max-width:100%;" width="2400"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/how-to-watch-tennessee-titans-new-orleans-saints-live-stream/">
+           How oo watch Titans vs Saints: Week 1 live stream starts now
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Want to watch the NFL away from home? We'll show you how.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6411f599ad4df-joe-rice-jones-headshot.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/joe-rice-jones/" rel="author" title="Posts by Joe Rice-Jones">
+            Joe Rice-Jones
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T15:39:26Z">
+            23 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         The 104th season of the NFL kicked off this week, and there are some fantastic matchups in this weekend's games. The New Orleans Saints play the Tennessee Titans on home turf on Sunday, and it promises to be a barnstormer.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005825 https://www.xda-developers.com/?p=1005825">
+        </span>
+        <a class="dc-img-link" href="/10-years-ago-apple-announced-iphone-5s-and-5c/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-5s-and-iphone-5c.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-5s-and-iphone-5c.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-5s-and-iphone-5c.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-5s-and-iphone-5c.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Sealed boxes of iPhone 5s and iPhone 5c side by side 1" class="lazyload" height="1468" style="display:block;height:auto;max-width:100%;" width="2160"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/10-years-ago-apple-announced-iphone-5s-and-5c/">
+           10 years ago, Apple announced an iconic iPhone and a major disappointment
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          10 years ago to this day, Apple announced one of its most successful iPhones ever. It also launched one of its most disappointing ones.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F64be9d763263e-613eeb2842b66-IMG-20170614-WA0017.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/tanveer-singh/" rel="author" title="Posts by Tanveer Singh">
+            Tanveer Singh
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T15:00:28Z">
+            23 hours ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         <a href="https://www.xda-developers.com/iphone-15-to-be-revealed/">
+          Apple is likely to reveal the iPhone 15 series
+         </a>
+         at its upcoming September event, which can be exciting, but the launch of a new iPhone is not what it was years ago. Users today can only expect Apple to bring incremental upgrades or too-little-too-late features like a USB-C port.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005870 https://www.xda-developers.com/?p=1005870">
+        </span>
+        <a class="dc-img-link" href="/best-cases-lenovo-legion-9i/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/lenovo-legion-9i-2.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/lenovo-legion-9i-2.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/lenovo-legion-9i-2.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/lenovo-legion-9i-2.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Lenovo Legion 9i-2 1" class="lazyload" height="4000" style="display:block;height:auto;max-width:100%;" width="6000"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/best-cases-lenovo-legion-9i/">
+           Best cases for the Lenovo Legion 9i
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Keep your investment in the Lenovo Legion 9i safe with these cases.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6490714eaec1d-1670289589636.jpeg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/ben-smith/" rel="author" title="Posts by Ben Smith">
+            Ben Smith
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T14:31:27Z">
+            1 day ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Lenovo's premiere gaming laptop, the
+         <a href="https://xda-developers.com/lenovo-legion-9i/">
+          Lenovo Legion 9i
+         </a>
+         is back in 2023, and Lenovo seems to have outdone themselves this time. The Legion 9i comes in a lightweight 5.64 pound chassis, while providing up to an Intel Core i9-13980HX processor and a dedicated Nvidia GeForce RTX 4090 GPU. There's a 16-inch Mini-LED display, and in order to cool such a powerful system, Lenovo has included a self-contained water cooling system inside this 16-inch laptop.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005642 https://www.xda-developers.com/?p=1005642">
+        </span>
+        <a class="dc-img-link" href="/hp-dragonfly-g4-review/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/hp-dragonfly-g4-8.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/hp-dragonfly-g4-8.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/hp-dragonfly-g4-8.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/hp-dragonfly-g4-8.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="HP Dragonfly G4-8 1" class="lazyload" height="2000" style="display:block;height:auto;max-width:100%;" width="3000"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/hp-dragonfly-g4-review/">
+           HP Dragonfly G4 review: What else could you want?
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          HP's Dragonfly G4 isn't just a great business laptop. It's great for everybody
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6351caa92c989-WP_20150723_19_16_27_Pro.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/richwoods/" rel="author" title="Posts by Rich Woods">
+            Rich Woods
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T13:01:29Z">
+            1 day ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         HP's Dragonfly series consistently shows up on
+         <a href="https://www.xda-developers.com/best-laptops/">
+          our best laptops guide
+         </a>
+         , and there's a reason for that. It's tough to find anything wrong with them, and that extends to the latest addition, the Dragonfly G4. It's super-light, has a 3:2 OLED display option, and the keyboard is best in its class. The webcam is pretty great, too, which is nice to have if you work from home, and HP even added some neat new features, like the ability to automatically switch between cameras while you're using them.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005902 https://www.xda-developers.com/?p=1005902">
+        </span>
+        <a class="dc-img-link" href="/how-disable-xbox-game-bar-windows/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/how-to-disable-xbox-game-bar-windows-11.png?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/how-to-disable-xbox-game-bar-windows-11.png?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/how-to-disable-xbox-game-bar-windows-11.png?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/how-to-disable-xbox-game-bar-windows-11.png?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Screenshot of a Windows 11 desktop with the Xbox Game Bar overlay open over the Settings app showing the button to terminate the Xbox Game Bar app 1" class="lazyload" height="2080" style="display:block;height:auto;max-width:100%;" width="3120"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/how-disable-xbox-game-bar-windows/">
+           How to disable Xbox Game Bar on Windows
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Don't care about Microsoft's Xbox overlay in games? Here's how you can disable the Xbox Game Bar UI in Windows.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6351bd4de2ce7-Pic%201.jpeg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/joao-xda/" rel="author" title="Posts by João Carrasqueira">
+            João Carrasqueira
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T12:00:28Z">
+            1 day ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Out of the box,
+         <a href="https://www.xda-developers.com/windows-11/">
+          Windows 11
+         </a>
+         and 10 give you a way to record and share your games, as well as chat with your Xbox friends, manage system resources, and do all kinds of things thanks to plug-ins. All of this is available through the Xbox Game Bar, but what if you don't care about any of these features and they're just using up resources on your
+         <a href="https://www.xda-developers.com/best-laptops/">
+          laptop
+         </a>
+         ? Thankfully, you can disable the Xbox Game Bar so it doesn't bother you. Here's how.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005951 https://www.xda-developers.com/?p=1005951">
+        </span>
+        <a class="dc-img-link" href="/microsoft-surface-duo-end-of-life/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/08/Surface-Duo-Feature-1.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/08/Surface-Duo-Feature-1.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/08/Surface-Duo-Feature-1.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/08/Surface-Duo-Feature-1.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Microsoft Surface Duo 1" class="lazyload" height="900" style="display:block;height:auto;max-width:100%;" width="1200"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/microsoft-surface-duo-end-of-life/">
+           Microsoft's Surface Duo reaches end of life
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Microsoft has ended support for the original Surface Duo, three years after release. The device will no longer receive OS or security updates.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F6454ccc50159f-12313820_1046056015447393_4021250601544034547_n.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/usama-jawad/" rel="author" title="Posts by Usama Jawad">
+            Usama Jawad
+           </a>
+           <time class="display-card-date" datetime="2023-09-10T10:22:24Z">
+            1 day ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Microsoft
+         <a href="https://www.xda-developers.com/microsoft-surface-duo-suface-neo-surface-pro-7-surface-laptop-3/">
+          announced
+         </a>
+         the Surface Duo and Surface Neo back in October 2019 and while the latter device was canceled ahead of release, the Duo became
+         <a href="https://www.xda-developers.com/microsoft-surface-duo-dual-screen-android-smartphone/">
+          available in September 2020
+         </a>
+         . We
+         <a href="https://www.xda-developers.com/microsoft-surface-duo-review/">
+          reviewed the dual-screen Android handset
+         </a>
+         and praised its hardware while still acknowledging its limitations, high price tag, and the very specific market niche that it targets. Today, Microsoft has ended support for the Surface Duo.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005887 https://www.xda-developers.com/?p=1005887">
+        </span>
+        <a class="dc-img-link" href="/how-install-chrome-ubuntu/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/chrome-on-ubuntu.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/chrome-on-ubuntu.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/chrome-on-ubuntu.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/chrome-on-ubuntu.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Chrome on Ubuntu 1" class="lazyload" height="1400" style="display:block;height:auto;max-width:100%;" width="2100"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/how-install-chrome-ubuntu/">
+           How to install Chrome on Ubuntu
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Google Chrome is one of the most popular web browsers, and you can use it on Ubuntu, too by installing it with a few simple clicks
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F63530a549d5c8-KCwKRHjz_400x400.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/arifbacchus/" rel="author" title="Posts by Arif Bacchus">
+            Arif Bacchus
+           </a>
+           <time class="display-card-date" datetime="2023-09-09T22:01:27Z">
+            2 days ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         <a href="https://www.xda-developers.com/ubuntu/">
+          Ubuntu
+         </a>
+         is one of the most widely used
+         <a href="https://www.xda-developers.com/linux/">
+          Linux distributions
+         </a>
+         offering a fancy graphical user interface that Windows and macOS users are sure to enjoy. On the other hand, Google Chrome is one of the most widely used web browsers. So, if you want to use Google Chrome on an
+         <a href="https://www.xda-developers.com/best-laptops-linux/">
+          Ubuntu laptop
+         </a>
+         or any other Ubuntu machine in place of the default and pre-installed Firefox web browser, you can. There are two ways you can install it. You can enjoy a manual download with the default Firefox web browser, similar to how you might use Edge to do this on Windows, or you can install it using the Terminal.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005839 https://www.xda-developers.com/?p=1005839">
+        </span>
+        <a class="dc-img-link" href="/active-noise-cancelation/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/sennheiser-momentum-4-5-cleaned-watermarked-1024x768.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/sennheiser-momentum-4-5-cleaned-watermarked-1024x768.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/sennheiser-momentum-4-5-cleaned-watermarked-1024x768.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/sennheiser-momentum-4-5-cleaned-watermarked-1024x768.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Sennheiser-Momentum-4-5-Cleaned-Watermarked-1024x768 1" class="lazyload" height="768" style="display:block;height:auto;max-width:100%;" width="1024"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/active-noise-cancelation/">
+           What is Active Noise Cancelation?
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          If you've ever wondered what active noise cancelation is, then you've come to the right place.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F63ea6c458eb41-professionalpfp.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/adamconway-xda/" rel="author" title="Posts by Adam Conway">
+            Adam Conway
+           </a>
+           <time class="display-card-date" datetime="2023-09-09T20:00:27Z">
+            2 days ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Active Noise Cancelation is a majorly sought-after feature on earphones and headphones, and for good reason. It removes a lot of outside noise from your listening experience, making it both significantly more peaceful and easier to listen at lower volumes. However, how noise-canceling works on headphones like the
+         <a href="https://www.xda-developers.com/sennheiser-momentum-4-wireless-review/">
+          Sennheiser Momentum 4 Wireless
+         </a>
+         and the
+         <a href="https://www.xda-developers.com/sony-wh-1000xm5-review/">
+          Sony WH-1000XM5
+         </a>
+         is a bit of a mystery to many. We sat down with Christian Ern, a Principal Product Manager of Consumer Headphones at Sennheiser, at this year's
+         <a href="https://www.xda-developers.com/ifa-awards-2023/">
+          IFA 2023
+         </a>
+         to help break it down.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1002542 https://www.xda-developers.com/?p=1002542">
+        </span>
+        <a class="dc-img-link" href="/how-sideload-apps-chromebook/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/ezgif-1-3d865e2906.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/ezgif-1-3d865e2906.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/ezgif-1-3d865e2906.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/ezgif-1-3d865e2906.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Samsung Galaxy Chromebook 2 on a table 1" class="lazyload" height="760" style="display:block;height:auto;max-width:100%;" width="1140"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/how-sideload-apps-chromebook/">
+           How to sideload apps to a Chromebook
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Want to use an app on your Chromebook that isn't on the Google Play Store? You can sideload it!
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F63530a549d5c8-KCwKRHjz_400x400.jpg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/arifbacchus/" rel="author" title="Posts by Arif Bacchus">
+            Arif Bacchus
+           </a>
+           <time class="display-card-date" datetime="2023-09-09T18:00:28Z">
+            2 days ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         A significant benefit of owning a
+         <a href="https://www.xda-developers.com/best-chromebooks/">
+          Chromebook
+         </a>
+         is that you can use all kinds of apps on it, including Linux apps,
+         <a href="https://www.xda-developers.com/android-apps-chrome-os/">
+          Android apps
+         </a>
+         , and standard web apps. Most Android apps, in particular, can be downloaded via the Google Play Store, but what if you want to use a specific Android app that's not listed? Well, you can sideload that app.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005950 https://www.xda-developers.com/?p=1005950">
+        </span>
+        <a class="dc-img-link" href="/microsoft-skype-bing-ai-tone-suggestions/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/skype.jpg?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/skype.jpg?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/skype.jpg?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/skype.jpg?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="Screenshot showing Skype running on a Mac 1" class="lazyload" height="1440" style="display:block;height:auto;max-width:100%;" width="2160"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/microsoft-skype-bing-ai-tone-suggestions/">
+           Skype’s Bing AI gets a massive upgrade with tone suggestions and more
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Microsoft has introduced a slew of new features to Bing Chat in Skype to help you get rid of dull messages.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F63dbd2dc2dbd7-20210122214044_IMG_3309.JPG?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/rahul-naskar/" rel="author" title="Posts by Rahul Naskar">
+            Rahul Naskar
+           </a>
+           <time class="display-card-date" datetime="2023-09-09T17:56:43Z">
+            2 days ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Microsoft is in the process of introducing the AI-based
+         <a href="https://www.xda-developers.com/bing-chat/">
+          Bing Chat
+         </a>
+         feature to many of its apps and services and is also putting effort into improving the AI experience across its different platforms. The latest app to get massive AI improvements is Skype, which now helps you to be more creative with your messages.
+        </p>
+       </div>
+       <div class="display-card article large">
+        <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005931 https://www.xda-developers.com/?p=1005931">
+        </span>
+        <a class="dc-img-link" href="/samsung-one-ui-6-update-excited-galaxy-s23/">
+         <div class="w-img">
+          <div class="bc-img responsive-img img-displayCard">
+           <figure>
+            <picture>
+             <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+             <source media="(min-width: 1024px)" sizes="430px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/samsung-one-ui-6-welcome-screen.png?q=50&amp;fit=crop&amp;w=430&amp;h=270&amp;dpr=1.5"/>
+             <source media="(min-width: 768px)" sizes="480px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/samsung-one-ui-6-welcome-screen.png?q=50&amp;fit=crop&amp;w=480&amp;h=280&amp;dpr=1.5"/>
+             <source media="(min-width: 481px)" sizes="368px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/samsung-one-ui-6-welcome-screen.png?q=50&amp;fit=crop&amp;w=368&amp;h=240&amp;dpr=1.5"/>
+             <source media="(min-width: 0px)" sizes="448px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/samsung-one-ui-6-welcome-screen.png?q=50&amp;fit=crop&amp;w=448&amp;h=260&amp;dpr=1.5"/>
+             <!--[if IE 9]></video><![endif]-->
+             <img alt="An image showing the Galaxy S23 kept on a deskmat with One UI 6 welcome screen. 1" class="lazyload" height="900" style="display:block;height:auto;max-width:100%;" width="1200"/>
+            </picture>
+           </figure>
+          </div>
+         </div>
+        </a>
+        <div class="w-display-card-content">
+         <h5 class="display-card-title">
+          <a href="/samsung-one-ui-6-update-excited-galaxy-s23/">
+           Three changes in Samsung One UI 6 beta update that got me excited about the Galaxy S23 again
+          </a>
+         </h5>
+         <p class="display-card-excerpt">
+          Plenty of visual changes for a breath of fresh air.
+         </p>
+         <div class="w-display-card-details">
+          <div class="display-card-author-img">
+           <img alt="4" src="https://static1.xdaimages.com/wordpress%2Fwp-content%2Fauthors%2F63523541cf83d-Karthik%20profile%20photo.jpeg?fit=crop&amp;w=90&amp;h=90" style="display:block;height:auto;max-width:100%;">
+           </img>
+          </div>
+          <div class="w-display-card-meta">
+           <span class="meta-text-author">
+            By
+           </span>
+           <a class="display-card-author" href="/author/karthik-xda/" rel="author" title="Posts by Karthik Iyer">
+            Karthik Iyer
+           </a>
+           <time class="display-card-date" datetime="2023-09-09T17:00:27Z">
+            2 days ago
+           </time>
+          </div>
+         </div>
+        </div>
+        <p class="display-card-firstParagraph">
+         Samsung's One UI 6 beta has landed, and it brings a handful of exciting features and some improvements over the One UI 5.1. It wasn't the smoothest rollout, but the update is finally available for all Galaxy S23 series devices across a few countries. I've been using the One UI 6 beta on my Galaxy S23 for about a week now, and my overall experience has been mostly positive. Switching to One UI 6 has made me use my
+         <a href="https://www.xda-developers.com/samsung-galaxy-s23-review/">
+          Galaxy S23
+         </a>
+         a lot more than the
+         <a href="https://www.xda-developers.com/google-pixel-7-review/">
+          Pixel 7
+         </a>
+         and the
+         <a href="https://www.xda-developers.com/samsung-galaxy-z-flip-5-review/">
+          Galaxy Z Flip 5
+         </a>
+         running One UI 5.1, which is a good indication of my overall experience. There are a few things about the software that I like more than the others, so I decided to highlight some of my favorite One UI 6 changes and improvements below. Let's dive in!
+        </p>
+       </div>
+      </div>
+      <span id="home-waypoint">
+      </span>
+      <a class="infinite-btn-next" href="/archive/2/" style="display: none;">
+       Show More
+      </a>
+     </div>
+     <aside class="sidebar adsninja-rail-container" id="secondary" role="complementary">
+      <!-- No winning ad found for zone: sidebar top! -->
+      <!-- Zone: first. -->
+      <!-- No ads allowed! -->
+      <article class="sidebar-trending">
+       <!-- Zone: second. -->
+       <!-- No ads allowed! -->
+       <!-- No winning ad found for zone: third! -->
+      </article>
+      <article class="sidebar-tabs">
+       <ul class="js-tabs-ul tabs-ul tabs-header">
+        <li class="selected" id="js-tab-1">
+         <h3 class="section-title">
+          Today's best deals
+         </h3>
+        </li>
+       </ul>
+       <div class="js-tab-pane tab-content sidebar-el-content" id="js-content-tab-1">
+        <div class="sidebar-pinned-listing-page-article">
+         <div class="display-card article small">
+          <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1004260 https://www.xda-developers.com/?p=1004260">
+          </span>
+          <a class="dc-img-link" href="/best-deals-motorola-razr-plus/">
+           <div class="w-img">
+            <div class="bc-img responsive-img img-displayCard">
+             <figure>
+              <picture>
+               <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+               <source media="(min-width: 1024px)" sizes="200px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/06/motorola-razr-2023-xda-review01956.jpg?q=50&amp;fit=crop&amp;w=200&amp;h=140&amp;dpr=1.5"/>
+               <source media="(min-width: 768px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/06/motorola-razr-2023-xda-review01956.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <source media="(min-width: 481px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/06/motorola-razr-2023-xda-review01956.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <source media="(min-width: 0px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/06/motorola-razr-2023-xda-review01956.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <!--[if IE 9]></video><![endif]-->
+               <img alt="the Motorola Razr 2023 1" class="lazyload" height="2832" style="display:block;height:auto;max-width:100%;" width="4240"/>
+              </picture>
+             </figure>
+            </div>
+           </div>
+          </a>
+          <div class="w-display-card-content">
+           <h5 class="display-card-title">
+            <a href="/best-deals-motorola-razr-plus/">
+             Best Motorola Razr+ deals in 2023
+            </a>
+           </h5>
+           <div class="w-display-card-details">
+            <div class="w-display-card-meta">
+             <time class="display-card-date" datetime="2023-09-10T16:31:29Z">
+              22 hours ago
+             </time>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="display-card article small">
+          <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005948 https://www.xda-developers.com/?p=1005948">
+          </span>
+          <a class="dc-img-link" href="/sony-wh-1000xm4-killer-deal/">
+           <div class="w-img">
+            <div class="bc-img responsive-img img-displayCard">
+             <figure>
+              <picture>
+               <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+               <source media="(min-width: 1024px)" sizes="200px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/08/sony-wh-1000xm4.jpg?q=50&amp;fit=crop&amp;w=200&amp;h=140&amp;dpr=1.5"/>
+               <source media="(min-width: 768px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/08/sony-wh-1000xm4.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <source media="(min-width: 481px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/08/sony-wh-1000xm4.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <source media="(min-width: 0px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/08/sony-wh-1000xm4.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <!--[if IE 9]></video><![endif]-->
+               <img alt="Sony WH-1000XM4 headphones 1" class="lazyload" height="800" style="display:block;height:auto;max-width:100%;" width="1200"/>
+              </picture>
+             </figure>
+            </div>
+           </div>
+          </a>
+          <div class="w-display-card-content">
+           <h5 class="display-card-title">
+            <a href="/sony-wh-1000xm4-killer-deal/">
+             Save $70 on these popular noise canceling Sony headphones in this killer deal
+            </a>
+           </h5>
+           <div class="w-display-card-details">
+            <div class="w-display-card-meta">
+             <time class="display-card-date" datetime="2023-09-09T10:46:20Z">
+              2 days ago
+             </time>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="display-card article small">
+          <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005943 https://www.xda-developers.com/?p=1005943">
+          </span>
+          <a class="dc-img-link" href="/motorola-wi-fi-6e-mesh-system-270-off/">
+           <div class="w-img">
+            <div class="bc-img responsive-img img-displayCard">
+             <figure>
+              <picture>
+               <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+               <source media="(min-width: 1024px)" sizes="200px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/xda-1-2.png?q=50&amp;fit=crop&amp;w=200&amp;h=140&amp;dpr=1.5"/>
+               <source media="(min-width: 768px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/xda-1-2.png?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <source media="(min-width: 481px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/xda-1-2.png?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <source media="(min-width: 0px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/xda-1-2.png?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+               <!--[if IE 9]></video><![endif]-->
+               <img alt="Motorola Q14 Mesh WiFi 6E Router on the coffee table next to a plant  1" class="lazyload" height="2000" style="display:block;height:auto;max-width:100%;" width="3000"/>
+              </picture>
+             </figure>
+            </div>
+           </div>
+          </a>
+          <div class="w-display-card-content">
+           <h5 class="display-card-title">
+            <a href="/motorola-wi-fi-6e-mesh-system-270-off/">
+             Score Motorola’s Wi-Fi 6e mesh system for $270 off in this terrific deal saving you 67%
+            </a>
+           </h5>
+           <div class="w-display-card-details">
+            <div class="w-display-card-meta">
+             <time class="display-card-date" datetime="2023-09-08T21:28:20Z">
+              3 days ago
+             </time>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <a class="btn-full" href="/deals/">
+         See More
+        </a>
+       </div>
+      </article>
+      <article class="sidebar-sticky">
+       <!-- Zone: default. -->
+       <!-- No ads allowed! -->
+       <div class="section-header">
+        <h3 class="section-title">
+         Trending Now
+        </h3>
+       </div>
+       <div class="sentinel-home-sidebarSticky">
+        <div class="display-card article small">
+         <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005759 https://www.xda-developers.com/?p=1005759">
+         </span>
+         <a class="dc-img-link" href="/lenovo-slim-pro-9i-2023-vs-legion-slim-7i-2023/">
+          <div class="w-img">
+           <div class="bc-img responsive-img img-displayCard">
+            <figure>
+             <picture>
+              <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+              <source media="(min-width: 1024px)" sizes="200px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/lenovo-slim-pro-9i-vs-legion-slim-7i.jpg?q=50&amp;fit=crop&amp;w=200&amp;h=140&amp;dpr=1.5"/>
+              <source media="(min-width: 768px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/lenovo-slim-pro-9i-vs-legion-slim-7i.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <source media="(min-width: 481px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/lenovo-slim-pro-9i-vs-legion-slim-7i.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <source media="(min-width: 0px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/lenovo-slim-pro-9i-vs-legion-slim-7i.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <!--[if IE 9]></video><![endif]-->
+              <img alt="A Lenovo Slim Pro 9i and a Legion Slim 7i next to each other with text reading VS between them 1" class="lazyload" height="1600" style="display:block;height:auto;max-width:100%;" width="2400"/>
+             </picture>
+            </figure>
+           </div>
+          </div>
+         </a>
+         <div class="w-display-card-content">
+          <h5 class="display-card-title">
+           <a href="/lenovo-slim-pro-9i-2023-vs-legion-slim-7i-2023/">
+            Lenovo Slim Pro 9i (2023) vs Legion Slim 7i (2023)
+           </a>
+          </h5>
+          <div class="w-display-card-details">
+           <div class="w-display-card-meta">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="display-card article small">
+         <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005822 https://www.xda-developers.com/?p=1005822">
+         </span>
+         <a class="dc-img-link" href="/razer-blade-14-2023-vs-blade-15-2023/">
+          <div class="w-img">
+           <div class="bc-img responsive-img img-displayCard">
+            <figure>
+             <picture>
+              <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+              <source media="(min-width: 1024px)" sizes="200px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/untitled.jpg?q=50&amp;fit=crop&amp;w=200&amp;h=140&amp;dpr=1.5"/>
+              <source media="(min-width: 768px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/untitled.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <source media="(min-width: 481px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/untitled.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <source media="(min-width: 0px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/untitled.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <!--[if IE 9]></video><![endif]-->
+              <img alt="razer-blade-14-2023-vs-razer-blade-15-2023 1" class="lazyload" height="2400" style="display:block;height:auto;max-width:100%;" width="3000"/>
+             </picture>
+            </figure>
+           </div>
+          </div>
+         </a>
+         <div class="w-display-card-content">
+          <h5 class="display-card-title">
+           <a href="/razer-blade-14-2023-vs-blade-15-2023/">
+            Razer Blade 14 (2023) vs Blade 15 (2023): Clash of the Razer Blades
+           </a>
+          </h5>
+          <div class="w-display-card-details">
+           <div class="w-display-card-meta">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="display-card article small">
+         <span class="dc-comment-count disqus-comment-count" data-disqus-identifier="1005865 https://www.xda-developers.com/?p=1005865">
+         </span>
+         <a class="dc-img-link" href="/reasons-i-use-apple-music/">
+          <div class="w-img">
+           <div class="bc-img responsive-img img-displayCard">
+            <figure>
+             <picture>
+              <!--[if IE 9]>
+                                <video style="display: none;"><![endif]-->
+              <source media="(min-width: 1024px)" sizes="200px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/05/apple-watch-apps-apple-music.jpg?q=50&amp;fit=crop&amp;w=200&amp;h=140&amp;dpr=1.5"/>
+              <source media="(min-width: 768px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/05/apple-watch-apps-apple-music.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <source media="(min-width: 481px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/05/apple-watch-apps-apple-music.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <source media="(min-width: 0px)" sizes="160px" srcset="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/05/apple-watch-apps-apple-music.jpg?q=50&amp;fit=crop&amp;w=160&amp;h=120&amp;dpr=1.5"/>
+              <!--[if IE 9]></video><![endif]-->
+              <img alt="The Apple Music app on the Apple Watch 1" class="lazyload" height="1400" style="display:block;height:auto;max-width:100%;" width="2100"/>
+             </picture>
+            </figure>
+           </div>
+          </div>
+         </a>
+         <div class="w-display-card-content">
+          <h5 class="display-card-title">
+           <a href="/reasons-i-use-apple-music/">
+            5 reasons I use Apple Music as my everyday music streaming service
+           </a>
+          </h5>
+          <div class="w-display-card-details">
+           <div class="w-display-card-meta">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </article>
+      <!-- No winning ad found for zone: infinite scroll rail! -->
+     </aside>
+    </div>
+   </section>
+  </main>
+  <!-- No winning ad found for zone: footer! -->
+  <footer aria-label="Footer" class="w-footer wrapper" id="w-footer wrapper">
+   <div class="footer_breadcrumb">
+   </div>
+   <div class="footer w-grid-system grid-c1">
+    <nav class="menu-legal">
+     <ul>
+      <li>
+       <a class="write standard" href="/careers/">
+        Write For Us
+       </a>
+      </li>
+      <li>
+       <a class="menu-home- standard" href="/">
+        Home
+       </a>
+      </li>
+      <li>
+       <a class="menu-contact-us standard" href="/contact/">
+        Contact Us
+       </a>
+      </li>
+      <li>
+       <a class="menu-terms standard" href="/terms-of-use/">
+        Terms
+       </a>
+      </li>
+      <li>
+       <a class="menu-privacy standard" href="/privacy-policy/">
+        Privacy
+       </a>
+      </li>
+      <li>
+       <a class="menu-copyright standard" href="/dmca-take-down-policy/">
+        Copyright
+       </a>
+      </li>
+      <li>
+       <a class="menu-about-us standard" href="/about/">
+        About Us
+       </a>
+      </li>
+      <li>
+       <a class="menu-fact-checking-policy standard" href="/fact-checking-policy/">
+        Fact Checking Policy
+       </a>
+      </li>
+      <li>
+       <a class="menu-corrections-policy standard" href="/corrections-policy/">
+        Corrections Policy
+       </a>
+      </li>
+      <li>
+       <a class="menu-ethics-policy standard" href="/ethics-policy/">
+        Ethics Policy
+       </a>
+      </li>
+      <li>
+       <a class="menu-ownership-policy standard" href="/ownership-funding-advertising-policy/">
+        Ownership Policy
+       </a>
+      </li>
+      <li>
+       <a class="menu-disclosure-policy standard" href="/page/xda-disclosure-policy/">
+        Disclosure Policy
+       </a>
+      </li>
+      <li>
+       <a class="menu-advertise standard" href="https://www.xda-developers.com/page/advertise/">
+        Advertise
+       </a>
+      </li>
+      <li>
+       <a class="menu-recognized-developer-program standard" href="/page/recognized-developer-program/">
+        Recognized Developer Program
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <div class="footer-copy">
+     Copyright © 2023 www.xda-developers.com
+    </div>
+   </div>
+  </footer>
+  <script async="" src="/public/build/valnet-footer.58d2e16b.js">
+  </script>
+  <script async="" src="/public/build/valnet-footer-homepage.0e8c9a5f.js">
+  </script>
+  <script>
+   (function () {
+            window.infiniteScrollUrl = '/fetch-latest/?_locale=en';
+            window.infiniteScrollDivSectionClass = 'section-latest-news';
+            window.infiniteScrollMax = 260;
+            window.infiniteScrollArticlesRequested = 20;
+            window.infiniteScrollArchivePathUrl = '/archive/';
+            window.infiniteScrollExcludedIds = 'article:1005851,article:1005847,article:1005921,article:1005668,article:1005919,article:1005959,article:1005855,article:1005907,article:1005953,article:1005929,article:1005938,article:1005867,article:1005925,article:632731,article:1005926,article:1005825,article:1005870,article:1005642,article:1005902,article:1005951,article:1005887,article:1005839,article:1002542,article:1005950,article:1005931';
+            window.infiniteScrollListingClass = 'sentinel-home-list';
+        })();
+  </script>
+  <script>
+   document.addEventListener('DOMContentLoaded', function () {
+            var queryString = window.location.search || '';
+            var keyValPairs = [];
+            var params      = {};
+
+            queryString     = queryString.substr(1);
+            if (queryString.length)
+            {
+                keyValPairs = queryString.split('&');
+                for (var i = 0; i < keyValPairs.length; i++)
+                {
+                    var key = keyValPairs[i].split('=')[0];
+                    if (!key.length) continue;
+                    if (typeof params[key] === 'undefined')
+                        params[key] = [];
+                    params[key].push(keyValPairs[i].split('=')[1]);
+                }
+
+                if (params['view'] !== undefined) {
+                    if (params['view'] == "list" || params['view'] == "lista") {
+                        valnet_cookie.set("view",params['view']);
+                    }
+                }
+
+                var campaign = null;
+                if (params['utm_source'] !== undefined) {
+                    campaign = params['utm_source'];
+                }
+                if (campaign !== null) {
+                    valnet_cookie.set("campaign",campaign);
+                }
+            }
+        });
+  </script>
+  <!-- Using AdsNinja V10 -->
+  <!-- Ad Footer Start -->
+  <!-- Chosen Ad Setup: Home Desktop. -->
+  <!-- Ad Footer End -->
+  <script>
+   console.log('viewType: direct');
+        console.log('view: all');
+        console.log('campaign: ');
+        console.log('device: desktop');
+  </script>
+  <script>
+   window.disqusEnable = true;
+            window.disqusForumShortname = "xdaportal"
+  </script>
+  <script>
+   window.disqusCommentCountOnBrowseClipEnable = true
+  </script>
+  <script defer="" id="dsq-count-scr" src="//xdaportal.disqus.com/count.js">
+  </script>
+  <script id="parsely-cfg" src="//cdn.parsely.com/keys/xda-developers.com/p.js">
+  </script>
+  <!-- Zone: sticky footer. -->
+  <!-- No ads allowed! -->
+ </body>
+</html>
